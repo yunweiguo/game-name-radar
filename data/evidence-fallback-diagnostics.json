@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-06T15:26:22.672Z",
+  "generatedAt": "2026-09-06T17:41:27.124Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2550,
+  "pendingSeo": 2549,
   "channelCounts": {
     "pending": 297,
-    "online": 2245,
+    "online": 2244,
     "wiki": 8
   },
   "fastClassCounts": {
     "pending:pending": 297,
-    "online:pending": 2245,
+    "online:pending": 2244,
     "wiki:pending": 8
   },
   "strategicCounts": {
@@ -17,7 +17,7 @@
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 416,
-    "online:1": 1827,
+    "online:1": 1826,
     "pending:1": 3,
     "wiki:1": 7
   },
@@ -112,7 +112,7 @@
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 4
     },
     {
       "id": "lagged-new",
@@ -123,7 +123,7 @@
       "count": 1
     },
     {
-      "id": "gamepix-new",
+      "id": "poki-new",
       "count": 1
     },
     {
@@ -172,6 +172,24 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Planet Merge",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "poki-new"
       ]
     },
     {
@@ -1061,25 +1079,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 3,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Sprunki.APK",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
