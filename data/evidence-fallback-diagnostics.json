@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-06T12:08:11.204Z",
+  "generatedAt": "2026-09-06T15:26:22.672Z",
   "totalCandidates": 3000,
   "pendingSeo": 2550,
   "channelCounts": {
-    "pending": 294,
-    "online": 2248,
+    "pending": 297,
+    "online": 2245,
     "wiki": 8
   },
   "fastClassCounts": {
-    "pending:pending": 294,
-    "online:pending": 2248,
+    "pending:pending": 297,
+    "online:pending": 2245,
     "wiki:pending": 8
   },
   "strategicCounts": {
-    "pending:0": 291,
+    "pending:0": 294,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 415,
-    "online:1": 1831,
+    "online:2": 416,
+    "online:1": 1827,
     "pending:1": 3,
     "wiki:1": 7
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2218
+      "count": 2214
     },
     {
       "id": "itch-newest-web",
-      "count": 2209
+      "count": 2205
     },
     {
       "id": "itch-new-feed",
-      "count": 2176
+      "count": 2172
     },
     {
       "id": "itch-new-popular-web",
@@ -44,31 +44,31 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 228
+      "count": 231
     },
     {
       "id": "trends-rising-30d",
-      "count": 135
+      "count": 137
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 106
+      "count": 108
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 75
+      "count": 76
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 72
+      "count": 73
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 56
+      "count": 57
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 32
+      "count": 33
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -112,7 +112,7 @@
     },
     {
       "id": "y8-new",
-      "count": 4
+      "count": 5
     },
     {
       "id": "lagged-new",
@@ -120,6 +120,10 @@
     },
     {
       "id": "steam-top-wishlist",
+      "count": 1
+    },
+    {
+      "id": "gamepix-new",
       "count": 1
     },
     {
