@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-06T08:07:39.390Z",
+  "generatedAt": "2026-09-06T12:08:11.204Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2552,
+  "pendingSeo": 2550,
   "channelCounts": {
-    "online": 2251,
-    "pending": 293,
+    "pending": 294,
+    "online": 2248,
     "wiki": 8
   },
   "fastClassCounts": {
-    "online:pending": 2251,
-    "pending:pending": 293,
+    "pending:pending": 294,
+    "online:pending": 2248,
     "wiki:pending": 8
   },
   "strategicCounts": {
-    "online:1": 1834,
-    "pending:0": 289,
+    "pending:0": 291,
     "online:3": 2,
     "wiki:0": 1,
     "online:2": 415,
-    "pending:1": 4,
+    "online:1": 1831,
+    "pending:1": 3,
     "wiki:1": 7
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2219
+      "count": 2218
     },
     {
       "id": "itch-newest-web",
-      "count": 2210
+      "count": 2209
     },
     {
       "id": "itch-new-feed",
-      "count": 2177
+      "count": 2176
     },
     {
       "id": "itch-new-popular-web",
@@ -44,7 +44,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 227
+      "count": 228
     },
     {
       "id": "trends-rising-30d",
@@ -52,7 +52,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 105
+      "count": 106
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -104,15 +104,15 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 6
+      "count": 5
     },
     {
       "id": "itch-featured",
-      "count": 6
+      "count": 5
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 4
     },
     {
       "id": "lagged-new",
@@ -120,10 +120,6 @@
     },
     {
       "id": "steam-top-wishlist",
-      "count": 1
-    },
-    {
-      "id": "gamepix-new",
       "count": 1
     },
     {
@@ -237,6 +233,25 @@
     },
     {
       "name": "Sad Sax",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Chaotic Pets",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1061,25 +1076,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Just Keep Defending And Mining",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 4,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
