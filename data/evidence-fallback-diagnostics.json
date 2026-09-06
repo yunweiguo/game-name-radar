@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-09-06T17:41:27.124Z",
+  "generatedAt": "2026-09-06T19:30:38.284Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2549,
+  "pendingSeo": 2548,
   "channelCounts": {
     "pending": 297,
-    "online": 2244,
+    "online": 2243,
     "wiki": 8
   },
   "fastClassCounts": {
     "pending:pending": 297,
-    "online:pending": 2244,
+    "online:pending": 2243,
     "wiki:pending": 8
   },
   "strategicCounts": {
     "pending:0": 294,
     "online:3": 2,
+    "online:1": 1825,
     "wiki:0": 1,
     "online:2": 416,
-    "online:1": 1826,
     "pending:1": 3,
     "wiki:1": 7
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2214
+      "count": 2212
     },
     {
       "id": "itch-newest-web",
-      "count": 2205
+      "count": 2203
     },
     {
       "id": "itch-new-feed",
-      "count": 2172
+      "count": 2170
     },
     {
       "id": "itch-new-popular-web",
-      "count": 393
+      "count": 395
     },
     {
       "id": "itch-popular",
-      "count": 393
+      "count": 395
     },
     {
       "id": "trends-rising-7d",
-      "count": 231
+      "count": 232
     },
     {
       "id": "trends-rising-30d",
-      "count": 137
+      "count": 138
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 108
+      "count": 109
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 76
+      "count": 77
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -123,10 +123,6 @@
       "count": 1
     },
     {
-      "id": "poki-new",
-      "count": 1
-    },
-    {
       "id": "crazygames-new",
       "count": 1
     }
@@ -172,24 +168,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Planet Merge",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 16,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "poki-new"
       ]
     },
     {
@@ -251,6 +229,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Pong Miner",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
