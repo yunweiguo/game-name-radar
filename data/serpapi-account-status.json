@@ -1,55 +1,22 @@
 {
-  "checkedAt": "2026-09-03T13:35:47.937Z",
+  "checkedAt": "2026-09-06T03:23:41.740Z",
   "accountApiConsumesSearchCredits": false,
-  "configuredKeys": 4,
-  "workingKeys": 4,
-  "uniqueAccountCount": 4,
+  "configuredKeys": 1,
+  "workingKeys": 1,
+  "uniqueAccountCount": 1,
   "duplicateKeyGroups": [],
-  "totalIndependentSearchesLeft": 675,
+  "totalIndependentSearchesLeft": 250,
   "accounts": [
     {
-      "accountFingerprint": "5dfaa092f348",
+      "accountFingerprint": "0805220d9705",
       "slotIds": [
         "1"
       ],
       "planName": "Free Plan",
       "searchesPerMonth": 250,
-      "thisMonthUsage": 245,
-      "totalSearchesLeft": 5,
-      "renewalDate": "2026-09-29"
-    },
-    {
-      "accountFingerprint": "5124b31098ad",
-      "slotIds": [
-        "2"
-      ],
-      "planName": "Free Plan",
-      "searchesPerMonth": 250,
-      "thisMonthUsage": 80,
-      "totalSearchesLeft": 170,
-      "renewalDate": "2026-09-29"
-    },
-    {
-      "accountFingerprint": "fa061d828750",
-      "slotIds": [
-        "3"
-      ],
-      "planName": "Free Plan",
-      "searchesPerMonth": 250,
       "thisMonthUsage": 0,
       "totalSearchesLeft": 250,
-      "renewalDate": "2026-09-29"
-    },
-    {
-      "accountFingerprint": "c56df0ffdca3",
-      "slotIds": [
-        "4"
-      ],
-      "planName": "Free Plan",
-      "searchesPerMonth": 250,
-      "thisMonthUsage": 0,
-      "totalSearchesLeft": 250,
-      "renewalDate": "2026-09-29"
+      "renewalDate": "2026-10-03"
     }
   ],
   "slots": [
@@ -58,80 +25,41 @@
       "envName": "SERPAPI_API_KEY",
       "configured": true,
       "ok": true,
-      "accountFingerprint": "5dfaa092f348",
+      "accountFingerprint": "0805220d9705",
       "accountStatus": "Active",
       "planId": "free",
       "planName": "Free Plan",
       "planMonthlyPrice": 0,
-      "renewalDate": "2026-09-29",
+      "renewalDate": "2026-10-03",
       "searchesPerMonth": 250,
-      "thisMonthUsage": 245,
-      "planSearchesLeft": 5,
-      "totalSearchesLeft": 5,
+      "thisMonthUsage": 0,
+      "planSearchesLeft": 250,
+      "totalSearchesLeft": 250,
       "rateLimitPerHour": 250,
-      "checkedAt": "2026-09-03T13:35:47.715Z",
+      "checkedAt": "2026-09-06T03:23:41.739Z",
       "sharedAccount": false,
       "sharedWithSlots": []
     },
     {
       "id": "2",
       "envName": "SERPAPI_API_KEY_2",
-      "configured": true,
-      "ok": true,
-      "accountFingerprint": "5124b31098ad",
-      "accountStatus": "Active",
-      "planId": "free",
-      "planName": "Free Plan",
-      "planMonthlyPrice": 0,
-      "renewalDate": "2026-09-29",
-      "searchesPerMonth": 250,
-      "thisMonthUsage": 80,
-      "planSearchesLeft": 170,
-      "totalSearchesLeft": 170,
-      "rateLimitPerHour": 250,
-      "checkedAt": "2026-09-03T13:35:47.790Z",
-      "sharedAccount": false,
-      "sharedWithSlots": []
+      "configured": false,
+      "ok": false,
+      "error": null
     },
     {
       "id": "3",
       "envName": "SERPAPI_API_KEY_3",
-      "configured": true,
-      "ok": true,
-      "accountFingerprint": "fa061d828750",
-      "accountStatus": "Active",
-      "planId": "free",
-      "planName": "Free Plan",
-      "planMonthlyPrice": 0,
-      "renewalDate": "2026-09-29",
-      "searchesPerMonth": 250,
-      "thisMonthUsage": 0,
-      "planSearchesLeft": 250,
-      "totalSearchesLeft": 250,
-      "rateLimitPerHour": 250,
-      "checkedAt": "2026-09-03T13:35:47.865Z",
-      "sharedAccount": false,
-      "sharedWithSlots": []
+      "configured": false,
+      "ok": false,
+      "error": null
     },
     {
       "id": "4",
       "envName": "SERPAPI_API_KEY_4",
-      "configured": true,
-      "ok": true,
-      "accountFingerprint": "c56df0ffdca3",
-      "accountStatus": "Active",
-      "planId": "free",
-      "planName": "Free Plan",
-      "planMonthlyPrice": 0,
-      "renewalDate": "2026-09-29",
-      "searchesPerMonth": 250,
-      "thisMonthUsage": 0,
-      "planSearchesLeft": 250,
-      "totalSearchesLeft": 250,
-      "rateLimitPerHour": 250,
-      "checkedAt": "2026-09-03T13:35:47.937Z",
-      "sharedAccount": false,
-      "sharedWithSlots": []
+      "configured": false,
+      "ok": false,
+      "error": null
     },
     {
       "id": "5",

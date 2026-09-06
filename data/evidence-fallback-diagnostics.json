@@ -1,70 +1,70 @@
 {
-  "generatedAt": "2026-09-03T13:35:43.657Z",
+  "generatedAt": "2026-09-06T03:23:40.203Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2547,
+  "pendingSeo": 2552,
   "channelCounts": {
-    "pending": 280,
-    "online": 2256,
-    "wiki": 11
+    "pending": 291,
+    "online": 2254,
+    "wiki": 7
   },
   "fastClassCounts": {
-    "pending:pending": 280,
-    "online:pending": 2256,
-    "wiki:pending": 11
+    "pending:pending": 291,
+    "online:pending": 2254,
+    "wiki:pending": 7
   },
   "strategicCounts": {
-    "pending:0": 277,
+    "pending:0": 287,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 412,
-    "online:1": 1842,
-    "pending:1": 3,
-    "wiki:1": 10
+    "online:2": 413,
+    "online:1": 1839,
+    "pending:1": 4,
+    "wiki:1": 6
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2226
+      "count": 2224
     },
     {
       "id": "itch-newest-web",
-      "count": 2217
+      "count": 2215
     },
     {
       "id": "itch-new-feed",
-      "count": 2184
+      "count": 2182
     },
     {
       "id": "itch-new-popular-web",
-      "count": 390
+      "count": 391
     },
     {
       "id": "itch-popular",
-      "count": 390
+      "count": 391
     },
     {
       "id": "trends-rising-7d",
-      "count": 212
+      "count": 224
     },
     {
       "id": "trends-rising-30d",
-      "count": 129
+      "count": 134
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 95
+      "count": 103
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 70
+      "count": 75
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 69
+      "count": 72
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 54
+      "count": 55
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -91,24 +91,24 @@
       "count": 27
     },
     {
-      "id": "steam-popular-new",
-      "count": 11
-    },
-    {
       "id": "steam-latest-indie",
-      "count": 7
+      "count": 8
     },
     {
       "id": "steam-new",
+      "count": 8
+    },
+    {
+      "id": "steam-popular-new",
       "count": 7
     },
     {
       "id": "itch-featured-feed",
-      "count": 5
+      "count": 6
     },
     {
       "id": "itch-featured",
-      "count": 5
+      "count": 6
     },
     {
       "id": "y8-new",
@@ -171,98 +171,24 @@
       ]
     },
     {
-      "name": "Eleven Thousand: Deep",
+      "name": "Path of the idle cultivator",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 18,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 11,
       "strategicCount": 2,
-      "sourceCount": 5,
+      "sourceCount": 7,
       "sourceIds": [
         "itch-newest-web",
         "itch-new",
         "itch-new-feed",
         "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Scratch It! Lucky Cards",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "THE WARM ROOM",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Pongcremental",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Thock Factory",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
       ]
     },
     {
@@ -306,6 +232,25 @@
       ]
     },
     {
+      "name": "Eleven Thousand: Deep",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Eternal Fortress",
       "channel": "online",
       "fastClass": "pending",
@@ -326,6 +271,25 @@
     },
     {
       "name": "Industrial Knowledge",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Scratch It! Lucky Cards",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -382,6 +346,25 @@
       ]
     },
     {
+      "name": "THE WARM ROOM",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Mushroom Man 2026",
       "channel": "online",
       "fastClass": "pending",
@@ -390,6 +373,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Pongcremental",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Thock Factory",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -694,6 +715,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "One More Floor",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1036,44 +1076,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Quarterheart",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "11 - Minute Hero",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 12,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
