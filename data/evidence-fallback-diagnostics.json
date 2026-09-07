@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-09-07T06:05:24.013Z",
+  "generatedAt": "2026-09-07T12:26:55.971Z",
   "totalCandidates": 3000,
   "pendingSeo": 2547,
   "channelCounts": {
-    "pending": 298,
-    "online": 2247,
+    "pending": 300,
+    "online": 2245,
     "wiki": 2
   },
   "fastClassCounts": {
-    "pending:pending": 298,
-    "online:pending": 2247,
+    "pending:pending": 300,
+    "online:pending": 2245,
     "wiki:pending": 2
   },
   "strategicCounts": {
-    "pending:0": 295,
+    "pending:0": 297,
+    "online:1": 1818,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 420,
-    "online:1": 1825,
+    "online:2": 425,
     "pending:1": 3,
     "wiki:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2216
+      "count": 2214
     },
     {
       "id": "itch-newest-web",
-      "count": 2207
+      "count": 2205
     },
     {
       "id": "itch-new-feed",
-      "count": 2174
+      "count": 2169
     },
     {
       "id": "itch-new-popular-web",
-      "count": 398
+      "count": 402
     },
     {
       "id": "itch-popular",
-      "count": 398
+      "count": 402
     },
     {
       "id": "trends-rising-7d",
-      "count": 233
+      "count": 235
     },
     {
       "id": "trends-rising-30d",
-      "count": 141
+      "count": 146
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 109
+      "count": 111
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 77
+      "count": 79
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -72,7 +72,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 31
+      "count": 34
     },
     {
       "id": "newgrounds-latest",
@@ -100,11 +100,11 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 5
+      "count": 6
     },
     {
       "id": "itch-featured",
-      "count": 5
+      "count": 6
     },
     {
       "id": "y8-new",
@@ -189,6 +189,44 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Compromised Anatomy",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Basic Incremental Miner",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1031,44 +1069,6 @@
     },
     {
       "name": "Still Dreaming",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "insignificance",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Jump Army",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
