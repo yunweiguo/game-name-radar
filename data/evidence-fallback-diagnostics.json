@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-09-07T01:00:37.381Z",
+  "generatedAt": "2026-09-07T06:05:24.013Z",
   "totalCandidates": 3000,
   "pendingSeo": 2547,
   "channelCounts": {
-    "pending": 297,
-    "online": 2248,
+    "pending": 298,
+    "online": 2247,
     "wiki": 2
   },
   "fastClassCounts": {
-    "pending:pending": 297,
-    "online:pending": 2248,
+    "pending:pending": 298,
+    "online:pending": 2247,
     "wiki:pending": 2
   },
   "strategicCounts": {
-    "pending:0": 294,
+    "pending:0": 295,
     "online:3": 2,
     "wiki:0": 1,
-    "online:2": 419,
-    "online:1": 1827,
+    "online:2": 420,
+    "online:1": 1825,
     "pending:1": 3,
     "wiki:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2217
+      "count": 2216
     },
     {
       "id": "itch-newest-web",
-      "count": 2208
+      "count": 2207
     },
     {
       "id": "itch-new-feed",
-      "count": 2175
+      "count": 2174
     },
     {
       "id": "itch-new-popular-web",
-      "count": 397
+      "count": 398
     },
     {
       "id": "itch-popular",
-      "count": 397
+      "count": 398
     },
     {
       "id": "trends-rising-7d",
-      "count": 231
+      "count": 233
     },
     {
       "id": "trends-rising-30d",
-      "count": 138
+      "count": 141
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -64,15 +64,15 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 56
+      "count": 58
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 33
+      "count": 34
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 29
+      "count": 31
     },
     {
       "id": "newgrounds-latest",
@@ -267,6 +267,25 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "Minimis",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-new-feed"
       ]
     },
     {
@@ -1050,25 +1069,6 @@
     },
     {
       "name": "Jump Army",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Sprunki: REVAMPED",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
