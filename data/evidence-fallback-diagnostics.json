@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-07T23:45:36.628Z",
+  "generatedAt": "2026-09-08T01:24:54.122Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2540,
+  "pendingSeo": 2539,
   "channelCounts": {
-    "online": 2237,
-    "pending": 301,
+    "online": 2235,
+    "pending": 302,
     "wiki": 2
   },
   "fastClassCounts": {
-    "online:pending": 2237,
-    "pending:pending": 301,
+    "online:pending": 2235,
+    "pending:pending": 302,
     "wiki:pending": 2
   },
   "strategicCounts": {
     "online:3": 3,
-    "pending:0": 298,
+    "pending:0": 299,
     "wiki:0": 1,
-    "online:2": 432,
-    "online:1": 1802,
+    "online:2": 431,
+    "online:1": 1801,
     "pending:1": 3,
     "wiki:1": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2205
+      "count": 2204
     },
     {
       "id": "itch-newest-web",
-      "count": 2196
+      "count": 2195
     },
     {
       "id": "itch-new-feed",
-      "count": 2159
+      "count": 2158
     },
     {
       "id": "itch-new-popular-web",
@@ -44,15 +44,15 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 235
+      "count": 237
     },
     {
       "id": "trends-rising-30d",
-      "count": 145
+      "count": 147
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 111
+      "count": 112
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -60,19 +60,19 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 72
+      "count": 73
     },
     {
       "id": "trends-rising-7d-itch-io",
       "count": 59
     },
     {
-      "id": "trends-rising-30d-itch-io",
-      "count": 34
+      "id": "trends-rising-30d-indie-game",
+      "count": 35
     },
     {
-      "id": "trends-rising-30d-indie-game",
-      "count": 33
+      "id": "trends-rising-30d-itch-io",
+      "count": 34
     },
     {
       "id": "newgrounds-latest",
@@ -108,7 +108,7 @@
     },
     {
       "id": "y8-new",
-      "count": 6
+      "count": 5
     },
     {
       "id": "steam-popular-new",
@@ -120,10 +120,6 @@
     },
     {
       "id": "steam-top-wishlist",
-      "count": 1
-    },
-    {
-      "id": "gamepix-new",
       "count": 1
     },
     {
@@ -192,27 +188,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Path of the idle cultivator",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 18,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 11,
-      "strategicCount": 2,
-      "sourceCount": 7,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular",
-        "steam-latest-indie",
-        "steam-new"
       ]
     },
     {
@@ -319,6 +294,27 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
+      "name": "Path of the idle cultivator",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 11,
       "strategicCount": 2,
       "sourceCount": 7,
       "sourceIds": [
