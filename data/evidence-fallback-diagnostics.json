@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-09-08T19:00:09.785Z",
+  "generatedAt": "2026-09-08T21:51:29.467Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2441,
+  "pendingSeo": 2432,
   "channelCounts": {
-    "pending": 316,
-    "online": 2125
+    "pending": 324,
+    "online": 2108
   },
   "fastClassCounts": {
-    "pending:pending": 316,
-    "online:pending": 2125
+    "pending:pending": 324,
+    "online:pending": 2108
   },
   "strategicCounts": {
-    "pending:0": 309,
+    "pending:0": 317,
     "pending:1": 7,
     "online:2": 400,
-    "online:1": 1725
+    "online:1": 1708
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2078
+      "count": 2062
     },
     {
       "id": "itch-newest-web",
-      "count": 2064
+      "count": 2040
     },
     {
       "id": "itch-new-feed",
-      "count": 2036
+      "count": 2020
     },
     {
       "id": "itch-new-popular-web",
-      "count": 393
+      "count": 400
     },
     {
       "id": "itch-popular",
-      "count": 393
+      "count": 400
     },
     {
       "id": "trends-rising-7d",
