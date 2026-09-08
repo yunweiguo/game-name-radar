@@ -105,6 +105,9 @@ jobs:
       - name: Install scanner dependencies
         run: npm install --no-audit --no-fund
 
+      - name: Reconcile provider quota state
+        run: node scripts/reconcile-provider-usage.mjs
+
       - name: Verify Apify account token without running an Actor
         run: node scripts/check-apify-account.mjs
 
