@@ -64,19 +64,19 @@ jobs:
       TIKTOK_RESEARCH_TOKEN: ${{ secrets.TIKTOK_RESEARCH_TOKEN }}
 
       # Google Trends provider pool: each key is a separate SerpApi account.
-      # Keep every configured key in the job environment so both quota checks
-      # and the pooled verifier see the same accounts.
+      # Keep 5 monthly searches in reserve and spread the free-plan budget
+      # across the month instead of exhausting it in one scan.
       SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
       SERPAPI_API_KEY_2: ${{ secrets.SERPAPI_API_KEY_2 }}
       SERPAPI_API_KEY_3: ${{ secrets.SERPAPI_API_KEY_3 }}
       SERPAPI_API_KEY_4: ${{ secrets.SERPAPI_API_KEY_4 }}
       SERPAPI_API_KEY_5: ${{ secrets.SERPAPI_API_KEY_5 }}
       SERPAPI_MONTHLY_LIMIT: 245
-      SERPAPI_DAILY_LIMIT: 245
+      SERPAPI_DAILY_LIMIT: 8
       SERPAPI_FILL_ENABLED: true
-      SERPAPI_ONLINE_LIMIT: 999
-      SERPAPI_WIKI_LIMIT: 999
-      SERPAPI_FLEX_LIMIT: 999
+      SERPAPI_ONLINE_LIMIT: 5
+      SERPAPI_WIKI_LIMIT: 2
+      SERPAPI_FLEX_LIMIT: 1
 
       # SearchApi Google Trends fallback. Single concurrency is slower but much
       # more reliable than the previous three simultaneous browser jobs.
