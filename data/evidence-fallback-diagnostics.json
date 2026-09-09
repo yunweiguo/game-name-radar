@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-09-08T21:51:29.467Z",
+  "generatedAt": "2026-09-09T00:13:59.322Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2432,
+  "pendingSeo": 2429,
   "channelCounts": {
-    "pending": 324,
-    "online": 2108
+    "pending": 340,
+    "online": 2089
   },
   "fastClassCounts": {
-    "pending:pending": 324,
-    "online:pending": 2108
+    "pending:pending": 340,
+    "online:pending": 2089
   },
   "strategicCounts": {
-    "pending:0": 317,
+    "pending:0": 333,
     "pending:1": 7,
-    "online:2": 400,
-    "online:1": 1708
+    "online:2": 399,
+    "online:1": 1690
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 2062
+      "count": 2053
     },
     {
       "id": "itch-newest-web",
-      "count": 2040
-    },
-    {
-      "id": "itch-new-feed",
       "count": 2020
     },
     {
+      "id": "itch-new-feed",
+      "count": 2011
+    },
+    {
       "id": "itch-new-popular-web",
-      "count": 400
+      "count": 401
     },
     {
       "id": "itch-popular",
-      "count": 400
+      "count": 401
     },
     {
       "id": "trends-rising-7d",
-      "count": 238
+      "count": 241
     },
     {
       "id": "trends-rising-30d",
-      "count": 151
+      "count": 157
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -51,11 +51,11 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 79
+      "count": 81
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 73
+      "count": 76
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -63,7 +63,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 37
+      "count": 41
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -95,7 +95,7 @@
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 4
     },
     {
       "id": "steam-latest-indie",
@@ -371,25 +371,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Crash Miner",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1055,6 +1036,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The Slopmachine",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
