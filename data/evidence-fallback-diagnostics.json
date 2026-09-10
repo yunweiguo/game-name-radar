@@ -1,37 +1,36 @@
 {
-  "generatedAt": "2026-09-10T09:12:45.021Z",
+  "generatedAt": "2026-09-10T13:41:46.390Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2298,
+  "pendingSeo": 2292,
   "channelCounts": {
-    "pending": 456,
-    "online": 1836,
-    "wiki": 6
+    "pending": 466,
+    "online": 1813,
+    "wiki": 13
   },
   "fastClassCounts": {
-    "pending:pending": 456,
-    "online:pending": 1836,
-    "wiki:pending": 6
+    "pending:pending": 466,
+    "online:pending": 1813,
+    "wiki:pending": 13
   },
   "strategicCounts": {
-    "pending:0": 446,
+    "pending:0": 456,
     "pending:1": 10,
-    "online:2": 210,
-    "online:1": 1626,
-    "wiki:0": 1,
-    "wiki:1": 5
+    "online:2": 193,
+    "online:1": 1620,
+    "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1930
+      "count": 1923
     },
     {
       "id": "itch-new-feed",
-      "count": 1888
+      "count": 1881
     },
     {
       "id": "itch-newest-web",
-      "count": 1788
+      "count": 1771
     },
     {
       "id": "trends-rising-7d",
@@ -39,11 +38,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 189
+      "count": 173
     },
     {
       "id": "itch-popular",
-      "count": 189
+      "count": 173
     },
     {
       "id": "trends-rising-30d",
@@ -75,11 +74,11 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 36
+      "count": 29
     },
     {
       "id": "newgrounds-new",
-      "count": 36
+      "count": 29
     },
     {
       "id": "newgrounds-daily-top",
@@ -90,20 +89,20 @@
       "count": 27
     },
     {
+      "id": "steam-latest-indie",
+      "count": 17
+    },
+    {
+      "id": "steam-new",
+      "count": 17
+    },
+    {
       "id": "itch-featured-feed",
       "count": 10
     },
     {
       "id": "itch-featured",
       "count": 10
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 9
-    },
-    {
-      "id": "steam-new",
-      "count": 9
     },
     {
       "id": "y8-new",
@@ -116,10 +115,6 @@
     {
       "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "steam-top-wishlist",
-      "count": 1
     }
   ],
   "samples": [
@@ -827,25 +822,6 @@
       ]
     },
     {
-      "name": "Sigilsmith",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Bumper to Billions",
       "channel": "online",
       "fastClass": "pending",
@@ -854,44 +830,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "RPG In Another World",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Little Big Space Clicker",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -930,25 +868,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Dungeonlings",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1036,14 +955,14 @@
       ]
     },
     {
-      "name": "CatalystCore",
+      "name": "Transcriptions of Time",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 5,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1055,7 +974,7 @@
       ]
     },
     {
-      "name": "Transcriptions of Time",
+      "name": "Shroom: The Gathering",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1063,6 +982,82 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "The Last Train",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Deltarune Chapters 1-5 Web Port",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Merchants and Rails",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "667 Phantogoria",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
