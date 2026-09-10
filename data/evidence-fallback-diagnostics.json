@@ -1,52 +1,53 @@
 {
-  "generatedAt": "2026-09-10T13:41:46.390Z",
+  "generatedAt": "2026-09-10T17:14:26.752Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2292,
+  "pendingSeo": 2259,
   "channelCounts": {
-    "pending": 466,
-    "online": 1813,
-    "wiki": 13
+    "pending": 480,
+    "online": 1775,
+    "wiki": 4
   },
   "fastClassCounts": {
-    "pending:pending": 466,
-    "online:pending": 1813,
-    "wiki:pending": 13
+    "pending:pending": 480,
+    "online:pending": 1775,
+    "wiki:pending": 4
   },
   "strategicCounts": {
-    "pending:0": 456,
+    "pending:0": 470,
     "pending:1": 10,
-    "online:2": 193,
-    "online:1": 1620,
-    "wiki:1": 13
+    "online:2": 159,
+    "online:1": 1616,
+    "wiki:0": 1,
+    "wiki:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1923
+      "count": 1903
     },
     {
       "id": "itch-new-feed",
-      "count": 1881
+      "count": 1861
     },
     {
       "id": "itch-newest-web",
-      "count": 1771
+      "count": 1737
     },
     {
       "id": "trends-rising-7d",
       "count": 247
     },
     {
+      "id": "trends-rising-30d",
+      "count": 157
+    },
+    {
       "id": "itch-new-popular-web",
-      "count": 173
+      "count": 135
     },
     {
       "id": "itch-popular",
-      "count": 173
-    },
-    {
-      "id": "trends-rising-30d",
-      "count": 157
+      "count": 135
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -89,20 +90,20 @@
       "count": 27
     },
     {
-      "id": "steam-latest-indie",
-      "count": 17
-    },
-    {
-      "id": "steam-new",
-      "count": 17
-    },
-    {
       "id": "itch-featured-feed",
       "count": 10
     },
     {
       "id": "itch-featured",
       "count": 10
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 7
+    },
+    {
+      "id": "steam-new",
+      "count": 7
     },
     {
       "id": "y8-new",
@@ -115,47 +116,13 @@
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "steam-top-wishlist",
+      "count": 1
     }
   ],
   "samples": [
-    {
-      "name": "Heart of Stars",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "THE WARM ROOM",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
     {
       "name": "Mushroom Man 2026",
       "channel": "online",
@@ -1058,6 +1025,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Zone Idle",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "A Shock of Dimension (Demo out!)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
