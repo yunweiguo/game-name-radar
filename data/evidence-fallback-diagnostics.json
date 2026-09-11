@@ -1,36 +1,37 @@
 {
-  "generatedAt": "2026-09-11T17:16:49.613Z",
+  "generatedAt": "2026-09-11T19:44:34.083Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2193,
+  "pendingSeo": 2192,
   "channelCounts": {
-    "pending": 562,
-    "online": 1614,
-    "wiki": 17
+    "pending": 579,
+    "online": 1603,
+    "wiki": 10
   },
   "fastClassCounts": {
-    "pending:pending": 562,
-    "online:pending": 1614,
-    "wiki:pending": 17
+    "pending:pending": 579,
+    "online:pending": 1603,
+    "wiki:pending": 10
   },
   "strategicCounts": {
-    "pending:0": 552,
+    "pending:0": 569,
     "pending:1": 10,
-    "online:2": 47,
-    "online:1": 1567,
-    "wiki:1": 17
+    "online:2": 44,
+    "online:1": 1559,
+    "wiki:0": 1,
+    "wiki:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1800
+      "count": 1808
     },
     {
       "id": "itch-new-feed",
-      "count": 1780
+      "count": 1791
     },
     {
       "id": "itch-newest-web",
-      "count": 1574
+      "count": 1566
     },
     {
       "id": "trends-rising-7d",
@@ -66,11 +67,11 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 32
+      "count": 30
     },
     {
       "id": "newgrounds-new",
-      "count": 32
+      "count": 30
     },
     {
       "id": "newgrounds-daily-top",
@@ -82,19 +83,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 23
+      "count": 19
     },
     {
       "id": "itch-popular",
-      "count": 23
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 17
-    },
-    {
-      "id": "steam-new",
-      "count": 17
+      "count": 19
     },
     {
       "id": "itch-featured-feed",
@@ -105,12 +98,24 @@
       "count": 10
     },
     {
+      "id": "steam-latest-indie",
+      "count": 9
+    },
+    {
+      "id": "steam-new",
+      "count": 9
+    },
+    {
       "id": "y8-new",
       "count": 3
     },
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "steam-top-wishlist",
+      "count": 1
     }
   ],
   "samples": [
@@ -147,24 +152,6 @@
       ]
     },
     {
-      "name": "Beer is on you!",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Espingle Adventure 01",
       "channel": "online",
       "fastClass": "pending",
@@ -183,24 +170,6 @@
       ]
     },
     {
-      "name": "Sentencely",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Tap a Monster",
       "channel": "online",
       "fastClass": "pending",
@@ -209,24 +178,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Micorrizas",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 4,
       "sourceIds": [
@@ -429,24 +380,6 @@
       "sourceCount": 4,
       "sourceIds": [
         "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Scrapbox",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-feed",
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
@@ -963,6 +896,74 @@
     },
     {
       "name": "Wave Offense 3 Resurrected",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Tiny Infinite Dungeons 64",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "うさこの野望 ～うさぎ布教大作戦～ TEST版",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Butterfly In-Effect",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "APOGEE",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
