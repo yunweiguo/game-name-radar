@@ -1,57 +1,56 @@
 {
-  "generatedAt": "2026-09-11T13:35:10.971Z",
+  "generatedAt": "2026-09-11T17:16:49.613Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2180,
+  "pendingSeo": 2193,
   "channelCounts": {
-    "pending": 547,
-    "online": 1625,
-    "wiki": 8
+    "pending": 562,
+    "online": 1614,
+    "wiki": 17
   },
   "fastClassCounts": {
-    "pending:pending": 547,
-    "online:pending": 1625,
-    "wiki:pending": 8
+    "pending:pending": 562,
+    "online:pending": 1614,
+    "wiki:pending": 17
   },
   "strategicCounts": {
-    "pending:0": 537,
+    "pending:0": 552,
     "pending:1": 10,
     "online:2": 47,
-    "online:1": 1578,
-    "wiki:0": 1,
-    "wiki:1": 7
+    "online:1": 1567,
+    "wiki:1": 17
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1803
+      "count": 1800
     },
     {
       "id": "itch-new-feed",
-      "count": 1783
+      "count": 1780
     },
     {
       "id": "itch-newest-web",
-      "count": 1587
+      "count": 1574
     },
     {
       "id": "trends-rising-7d",
-      "count": 263
+      "count": 267
     },
     {
       "id": "trends-rising-30d",
-      "count": 160
+      "count": 163
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 127
+      "count": 129
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 84
+      "count": 86
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 81
+      "count": 83
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -59,7 +58,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 42
+      "count": 43
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -67,11 +66,11 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 30
+      "count": 32
     },
     {
       "id": "newgrounds-new",
-      "count": 30
+      "count": 32
     },
     {
       "id": "newgrounds-daily-top",
@@ -90,6 +89,14 @@
       "count": 23
     },
     {
+      "id": "steam-latest-indie",
+      "count": 17
+    },
+    {
+      "id": "steam-new",
+      "count": 17
+    },
+    {
       "id": "itch-featured-feed",
       "count": 10
     },
@@ -98,24 +105,12 @@
       "count": 10
     },
     {
-      "id": "steam-latest-indie",
-      "count": 7
-    },
-    {
-      "id": "steam-new",
-      "count": 7
-    },
-    {
       "id": "y8-new",
       "count": 3
     },
     {
       "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "steam-top-wishlist",
-      "count": 1
     }
   ],
   "samples": [
@@ -916,23 +911,6 @@
       ]
     },
     {
-      "name": "Mors Blade",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
-        "itch-newest-web"
-      ]
-    },
-    {
       "name": "2D Shooter",
       "channel": "online",
       "fastClass": "pending",
@@ -950,14 +928,14 @@
       ]
     },
     {
-      "name": "Don't Cook Me!",
+      "name": "Battleship",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 11,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
@@ -967,7 +945,24 @@
       ]
     },
     {
-      "name": "Battleship",
+      "name": "Slime Clicker",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Wave Offense 3 Resurrected",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
