@@ -1,37 +1,36 @@
 {
-  "generatedAt": "2026-09-12T16:18:29.786Z",
+  "generatedAt": "2026-09-12T18:45:40.719Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2221,
+  "pendingSeo": 2220,
   "channelCounts": {
-    "pending": 574,
-    "online": 1624,
-    "wiki": 23
+    "pending": 584,
+    "online": 1628,
+    "wiki": 8
   },
   "fastClassCounts": {
-    "pending:pending": 574,
-    "online:pending": 1624,
-    "wiki:pending": 23
+    "pending:pending": 584,
+    "online:pending": 1628,
+    "wiki:pending": 8
   },
   "strategicCounts": {
-    "pending:0": 564,
-    "online:2": 37,
+    "pending:0": 574,
+    "online:2": 38,
     "pending:1": 10,
-    "online:1": 1587,
-    "wiki:1": 20,
-    "wiki:0": 3
+    "online:1": 1590,
+    "wiki:1": 8
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1794
+      "count": 1812
     },
     {
       "id": "itch-new-feed",
-      "count": 1787
+      "count": 1805
     },
     {
       "id": "itch-newest-web",
-      "count": 1560
+      "count": 1568
     },
     {
       "id": "trends-rising-7d",
@@ -66,36 +65,28 @@
       "count": 38
     },
     {
-      "id": "newgrounds-latest",
-      "count": 36
-    },
-    {
-      "id": "newgrounds-new",
-      "count": 36
-    },
-    {
       "id": "newgrounds-daily-top",
-      "count": 27
+      "count": 31
     },
     {
       "id": "newgrounds-top",
-      "count": 27
+      "count": 31
     },
     {
       "id": "itch-new-popular-web",
-      "count": 19
+      "count": 29
     },
     {
       "id": "itch-popular",
-      "count": 19
+      "count": 29
     },
     {
-      "id": "steam-latest-indie",
-      "count": 14
+      "id": "newgrounds-latest",
+      "count": 29
     },
     {
-      "id": "steam-new",
-      "count": 14
+      "id": "newgrounds-new",
+      "count": 29
     },
     {
       "id": "itch-featured-feed",
@@ -106,45 +97,33 @@
       "count": 12
     },
     {
-      "id": "crazygames-new",
-      "count": 10
-    },
-    {
       "id": "steam-popular-new",
-      "count": 6
+      "count": 8
     },
     {
       "id": "y8-new",
       "count": 4
     },
     {
-      "id": "steam-top-wishlist",
-      "count": 3
-    },
-    {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "gamepix-new",
-      "count": 1
+      "count": 3
     }
   ],
   "samples": [
     {
-      "name": "CMYK Puzzle",
+      "name": "Commando Force",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 12,
       "platforms": 2,
       "browserPlayable": true,
-      "nameRisk": 9,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 2,
       "sourceIds": [
         "y8-new",
-        "gamepix-new"
+        "lagged-new"
       ]
     },
     {
@@ -213,6 +192,25 @@
         "itch-popular",
         "itch-featured-feed",
         "itch-featured"
+      ]
+    },
+    {
+      "name": "SplitTrain",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -963,23 +961,6 @@
         "itch-newest-web",
         "itch-new",
         "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Alien Rat Maze",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
-        "itch-newest-web"
       ]
     }
   ]
