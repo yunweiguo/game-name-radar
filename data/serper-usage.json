@@ -1,9 +1,9 @@
 {
-  "totalUsed": 88,
+  "totalUsed": 71,
   "day": "2026-09-12",
-  "dayUsed": 88,
+  "dayUsed": 71,
   "totalLimit": 2450,
   "dailyLimit": 2450,
-  "updatedAt": "2026-09-12T08:52:17.042Z",
-  "lastError": null
+  "updatedAt": "2026-09-12T12:52:04.002Z",
+  "lastError": "Not enough credits"
 }

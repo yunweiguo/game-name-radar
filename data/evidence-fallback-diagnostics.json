@@ -1,33 +1,32 @@
 {
-  "generatedAt": "2026-09-12T08:52:17.425Z",
+  "generatedAt": "2026-09-12T12:52:04.379Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2157,
+  "pendingSeo": 2167,
   "channelCounts": {
-    "pending": 573,
-    "online": 1579,
-    "wiki": 5
+    "pending": 579,
+    "online": 1570,
+    "wiki": 18
   },
   "fastClassCounts": {
-    "pending:pending": 573,
-    "online:pending": 1579,
-    "wiki:pending": 5
+    "pending:pending": 579,
+    "online:pending": 1570,
+    "wiki:pending": 18
   },
   "strategicCounts": {
-    "pending:0": 563,
+    "pending:0": 569,
     "pending:1": 10,
+    "online:1": 1536,
     "online:2": 34,
-    "online:1": 1545,
-    "wiki:0": 1,
-    "wiki:1": 4
+    "wiki:1": 18
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1771
+      "count": 1777
     },
     {
       "id": "itch-new-feed",
-      "count": 1764
+      "count": 1770
     },
     {
       "id": "itch-newest-web",
@@ -67,11 +66,11 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 38
+      "count": 29
     },
     {
       "id": "newgrounds-new",
-      "count": 38
+      "count": 29
     },
     {
       "id": "newgrounds-daily-top",
@@ -80,6 +79,14 @@
     {
       "id": "newgrounds-top",
       "count": 27
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 18
+    },
+    {
+      "id": "steam-new",
+      "count": 18
     },
     {
       "id": "itch-featured-feed",
@@ -98,24 +105,12 @@
       "count": 5
     },
     {
-      "id": "steam-latest-indie",
-      "count": 4
-    },
-    {
-      "id": "steam-new",
-      "count": 4
-    },
-    {
       "id": "y8-new",
       "count": 3
     },
     {
       "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "steam-top-wishlist",
-      "count": 1
     }
   ],
   "samples": [
@@ -422,21 +417,20 @@
       ]
     },
     {
-      "name": "The Revival",
+      "name": "Forge Rush",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 10,
+      "discoveryScore": 13,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 4,
+      "strategicCount": 1,
+      "sourceCount": 3,
       "sourceIds": [
-        "newgrounds-latest",
-        "newgrounds-new",
-        "newgrounds-daily-top",
-        "newgrounds-top"
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
       ]
     },
     {
