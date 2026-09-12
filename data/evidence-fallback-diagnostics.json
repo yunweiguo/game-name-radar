@@ -1,48 +1,48 @@
 {
-  "generatedAt": "2026-09-12T18:45:40.719Z",
+  "generatedAt": "2026-09-12T20:58:31.806Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2220,
+  "pendingSeo": 2219,
   "channelCounts": {
-    "pending": 584,
-    "online": 1628,
-    "wiki": 8
+    "pending": 559,
+    "online": 1651,
+    "wiki": 9
   },
   "fastClassCounts": {
-    "pending:pending": 584,
-    "online:pending": 1628,
-    "wiki:pending": 8
+    "pending:pending": 559,
+    "online:pending": 1651,
+    "wiki:pending": 9
   },
   "strategicCounts": {
-    "pending:0": 574,
-    "online:2": 38,
+    "pending:0": 549,
+    "online:2": 37,
     "pending:1": 10,
-    "online:1": 1590,
-    "wiki:1": 8
+    "online:1": 1614,
+    "wiki:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1812
+      "count": 1809
     },
     {
       "id": "itch-new-feed",
-      "count": 1805
+      "count": 1802
     },
     {
       "id": "itch-newest-web",
-      "count": 1568
+      "count": 1592
     },
     {
       "id": "trends-rising-7d",
-      "count": 270
+      "count": 271
     },
     {
       "id": "trends-rising-30d",
-      "count": 165
+      "count": 168
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 132
+      "count": 133
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -58,11 +58,11 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 43
+      "count": 44
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 38
+      "count": 40
     },
     {
       "id": "newgrounds-daily-top",
@@ -98,34 +98,18 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 8
+      "count": 9
     },
     {
       "id": "y8-new",
-      "count": 4
+      "count": 3
     },
     {
       "id": "lagged-new",
-      "count": 3
+      "count": 2
     }
   ],
   "samples": [
-    {
-      "name": "Commando Force",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "lagged-new"
-      ]
-    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -293,6 +277,23 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Asteroids",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 13,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
