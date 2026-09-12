@@ -1,36 +1,37 @@
 {
-  "generatedAt": "2026-09-12T04:39:53.299Z",
+  "generatedAt": "2026-09-12T08:52:17.425Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2162,
+  "pendingSeo": 2157,
   "channelCounts": {
     "pending": 573,
-    "online": 1578,
-    "wiki": 11
+    "online": 1579,
+    "wiki": 5
   },
   "fastClassCounts": {
     "pending:pending": 573,
-    "online:pending": 1578,
-    "wiki:pending": 11
+    "online:pending": 1579,
+    "wiki:pending": 5
   },
   "strategicCounts": {
     "pending:0": 563,
     "pending:1": 10,
     "online:2": 34,
-    "online:1": 1544,
-    "wiki:1": 11
+    "online:1": 1545,
+    "wiki:0": 1,
+    "wiki:1": 4
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1775
+      "count": 1771
     },
     {
       "id": "itch-new-feed",
-      "count": 1768
+      "count": 1764
     },
     {
       "id": "itch-newest-web",
-      "count": 1542
+      "count": 1538
     },
     {
       "id": "trends-rising-7d",
@@ -66,11 +67,11 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 33
+      "count": 38
     },
     {
       "id": "newgrounds-new",
-      "count": 33
+      "count": 38
     },
     {
       "id": "newgrounds-daily-top",
@@ -79,14 +80,6 @@
     {
       "id": "newgrounds-top",
       "count": 27
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 11
-    },
-    {
-      "id": "steam-new",
-      "count": 11
     },
     {
       "id": "itch-featured-feed",
@@ -105,12 +98,24 @@
       "count": 5
     },
     {
+      "id": "steam-latest-indie",
+      "count": 4
+    },
+    {
+      "id": "steam-new",
+      "count": 4
+    },
+    {
       "id": "y8-new",
       "count": 3
     },
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "steam-top-wishlist",
+      "count": 1
     }
   ],
   "samples": [
@@ -363,6 +368,78 @@
       ]
     },
     {
+      "name": "Headstart 🎂",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
+      "name": "Promo - The Little Trashmaid",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
+      "name": "SVF E4 ALL CUTSCENES",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
+      "name": "The Revival",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 10,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "newgrounds-latest",
+        "newgrounds-new",
+        "newgrounds-daily-top",
+        "newgrounds-top"
+      ]
+    },
+    {
       "name": "2D Platformer",
       "channel": "online",
       "fastClass": "pending",
@@ -371,40 +448,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "EinmaleinsCrafter",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Moonfall",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
@@ -447,23 +490,6 @@
       ]
     },
     {
-      "name": "Descent",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
       "name": "Space-Shooter",
       "channel": "online",
       "fastClass": "pending",
@@ -472,23 +498,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Penumbra",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
