@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-09-13T20:46:59.829Z",
+  "generatedAt": "2026-09-13T22:39:30.345Z",
   "totalCandidates": 3000,
   "pendingSeo": 2214,
   "channelCounts": {
-    "pending": 468,
-    "online": 1733,
+    "pending": 465,
+    "online": 1736,
     "wiki": 13
   },
   "fastClassCounts": {
-    "pending:pending": 468,
-    "online:pending": 1733,
+    "pending:pending": 465,
+    "online:pending": 1736,
     "wiki:pending": 13
   },
   "strategicCounts": {
-    "pending:0": 458,
-    "online:1": 1688,
-    "online:2": 45,
+    "pending:0": 455,
+    "online:1": 1690,
+    "online:2": 46,
     "pending:1": 10,
     "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1773
+      "count": 1768
     },
     {
       "id": "itch-new-feed",
-      "count": 1763
+      "count": 1758
     },
     {
       "id": "itch-newest-web",
@@ -34,7 +34,7 @@
     },
     {
       "id": "trends-rising-7d",
-      "count": 279
+      "count": 281
     },
     {
       "id": "trends-rising-30d",
@@ -45,12 +45,12 @@
       "count": 137
     },
     {
-      "id": "trends-rising-30d-horror-game",
+      "id": "trends-rising-7d-indie-game",
       "count": 88
     },
     {
-      "id": "trends-rising-7d-indie-game",
-      "count": 86
+      "id": "trends-rising-30d-horror-game",
+      "count": 88
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -58,11 +58,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 53
+      "count": 57
     },
     {
       "id": "itch-popular",
-      "count": 53
+      "count": 57
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -275,6 +275,25 @@
     },
     {
       "name": "SplitTrain",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "APOGEE",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -953,23 +972,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Butterfly In-Effect",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
