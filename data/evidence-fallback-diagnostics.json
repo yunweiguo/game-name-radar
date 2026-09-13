@@ -1,44 +1,44 @@
 {
-  "generatedAt": "2026-09-13T11:47:52.220Z",
+  "generatedAt": "2026-09-13T15:05:17.111Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2218,
+  "pendingSeo": 2216,
   "channelCounts": {
-    "pending": 492,
-    "online": 1715,
-    "wiki": 11
+    "pending": 490,
+    "online": 1714,
+    "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 492,
-    "online:pending": 1715,
-    "wiki:pending": 11
+    "pending:pending": 490,
+    "online:pending": 1714,
+    "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 482,
-    "online:2": 45,
+    "pending:0": 480,
+    "online:2": 44,
     "online:1": 1670,
     "pending:1": 10,
-    "wiki:1": 11
+    "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1787
+      "count": 1784
     },
     {
       "id": "itch-new-feed",
-      "count": 1779
+      "count": 1776
     },
     {
       "id": "itch-newest-web",
-      "count": 1643
+      "count": 1642
     },
     {
       "id": "trends-rising-7d",
-      "count": 278
+      "count": 279
     },
     {
       "id": "trends-rising-30d",
-      "count": 170
+      "count": 171
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -50,7 +50,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 85
+      "count": 86
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -58,7 +58,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 45
+      "count": 46
     },
     {
       "id": "itch-new-popular-web",
@@ -98,42 +98,20 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 11
+      "count": 12
     },
     {
       "id": "y8-new",
-      "count": 5
+      "count": 4
     },
     {
       "id": "lagged-new",
-      "count": 2
-    },
-    {
-      "id": "gamepix-new",
-      "count": 1
+      "count": 3
     }
   ],
   "samples": [
     {
-      "name": "Beanbag Dodge",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 14,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "y8-new"
-      ]
-    },
-    {
-      "name": "Fruit Pairs: Zombieland",
+      "name": "Candy Flow Factory",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -145,7 +123,7 @@
       "sourceCount": 2,
       "sourceIds": [
         "y8-new",
-        "gamepix-new"
+        "lagged-new"
       ]
     },
     {
@@ -972,6 +950,23 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "APOGEE",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
