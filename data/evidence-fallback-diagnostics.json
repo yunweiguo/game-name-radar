@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-09-13T18:11:19.153Z",
+  "generatedAt": "2026-09-13T20:46:59.829Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2215,
+  "pendingSeo": 2214,
   "channelCounts": {
-    "pending": 477,
-    "online": 1725,
+    "pending": 468,
+    "online": 1733,
     "wiki": 13
   },
   "fastClassCounts": {
-    "pending:pending": 477,
-    "online:pending": 1725,
+    "pending:pending": 468,
+    "online:pending": 1733,
     "wiki:pending": 13
   },
   "strategicCounts": {
-    "pending:0": 467,
-    "online:1": 1679,
-    "online:2": 46,
+    "pending:0": 458,
+    "online:1": 1688,
+    "online:2": 45,
     "pending:1": 10,
     "wiki:1": 13
   },
@@ -30,7 +30,7 @@
     },
     {
       "id": "itch-newest-web",
-      "count": 1644
+      "count": 1653
     },
     {
       "id": "trends-rising-7d",
@@ -102,30 +102,14 @@
     },
     {
       "id": "y8-new",
-      "count": 4
+      "count": 3
     },
     {
       "id": "lagged-new",
-      "count": 3
+      "count": 2
     }
   ],
   "samples": [
-    {
-      "name": "Trump Wall Building",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "lagged-new"
-      ]
-    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -969,6 +953,23 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Butterfly In-Effect",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
