@@ -1,37 +1,36 @@
 {
-  "generatedAt": "2026-09-13T06:06:50.938Z",
+  "generatedAt": "2026-09-13T11:47:52.220Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2219,
+  "pendingSeo": 2218,
   "channelCounts": {
-    "pending": 495,
-    "online": 1712,
-    "wiki": 12
+    "pending": 492,
+    "online": 1715,
+    "wiki": 11
   },
   "fastClassCounts": {
-    "pending:pending": 495,
-    "online:pending": 1712,
-    "wiki:pending": 12
+    "pending:pending": 492,
+    "online:pending": 1715,
+    "wiki:pending": 11
   },
   "strategicCounts": {
-    "pending:0": 485,
-    "online:2": 41,
-    "wiki:2": 1,
-    "online:1": 1671,
+    "pending:0": 482,
+    "online:2": 45,
+    "online:1": 1670,
     "pending:1": 10,
     "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1789
+      "count": 1787
     },
     {
       "id": "itch-new-feed",
-      "count": 1782
+      "count": 1779
     },
     {
       "id": "itch-newest-web",
-      "count": 1642
+      "count": 1643
     },
     {
       "id": "trends-rising-7d",
@@ -62,16 +61,16 @@
       "count": 45
     },
     {
-      "id": "trends-rising-30d-itch-io",
-      "count": 40
-    },
-    {
       "id": "itch-new-popular-web",
-      "count": 39
+      "count": 42
     },
     {
       "id": "itch-popular",
-      "count": 39
+      "count": 42
+    },
+    {
+      "id": "trends-rising-30d-itch-io",
+      "count": 40
     },
     {
       "id": "newgrounds-daily-top",
@@ -99,26 +98,56 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 11
     },
     {
       "id": "y8-new",
-      "count": 3
+      "count": 5
     },
     {
       "id": "lagged-new",
       "count": 2
     },
     {
-      "id": "steam-latest-indie",
-      "count": 1
-    },
-    {
-      "id": "steam-new",
+      "id": "gamepix-new",
       "count": 1
     }
   ],
   "samples": [
+    {
+      "name": "Beanbag Dodge",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 14,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "y8-new"
+      ]
+    },
+    {
+      "name": "Fruit Pairs: Zombieland",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "gamepix-new"
+      ]
+    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -228,6 +257,25 @@
       ]
     },
     {
+      "name": "Amber Eyes",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Inkarn8: First Pages",
       "channel": "online",
       "fastClass": "pending",
@@ -278,6 +326,24 @@
         "itch-newest-web",
         "itch-new",
         "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "MrArcade",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -334,23 +400,6 @@
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Anomaly Company",
-      "channel": "wiki",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 14,
-      "platforms": 0,
-      "browserPlayable": false,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 3,
-      "sourceIds": [
-        "steam-popular-new",
-        "steam-latest-indie",
-        "steam-new"
       ]
     },
     {
@@ -923,57 +972,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "APOGEE",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Sorting",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "BLACKOUT",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
