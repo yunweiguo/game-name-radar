@@ -1,40 +1,41 @@
 {
-  "generatedAt": "2026-09-13T00:59:00.629Z",
+  "generatedAt": "2026-09-13T06:06:50.938Z",
   "totalCandidates": 3000,
   "pendingSeo": 2219,
   "channelCounts": {
-    "pending": 526,
-    "online": 1682,
-    "wiki": 11
+    "pending": 495,
+    "online": 1712,
+    "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 526,
-    "online:pending": 1682,
-    "wiki:pending": 11
+    "pending:pending": 495,
+    "online:pending": 1712,
+    "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 516,
-    "online:2": 39,
+    "pending:0": 485,
+    "online:2": 41,
+    "wiki:2": 1,
+    "online:1": 1671,
     "pending:1": 10,
-    "online:1": 1643,
     "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1798
+      "count": 1789
     },
     {
       "id": "itch-new-feed",
-      "count": 1791
+      "count": 1782
     },
     {
       "id": "itch-newest-web",
-      "count": 1620
+      "count": 1642
     },
     {
       "id": "trends-rising-7d",
-      "count": 277
+      "count": 278
     },
     {
       "id": "trends-rising-30d",
@@ -42,7 +43,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 136
+      "count": 137
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -66,19 +67,19 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 34
+      "count": 39
     },
     {
       "id": "itch-popular",
-      "count": 34
+      "count": 39
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 31
+      "count": 36
     },
     {
       "id": "newgrounds-top",
-      "count": 31
+      "count": 36
     },
     {
       "id": "newgrounds-latest",
@@ -98,7 +99,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 11
+      "count": 12
     },
     {
       "id": "y8-new",
@@ -107,6 +108,14 @@
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 1
+    },
+    {
+      "id": "steam-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -151,6 +160,44 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "RapidPrototyping",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "C.A.T.",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -290,6 +337,41 @@
       ]
     },
     {
+      "name": "Anomaly Company",
+      "channel": "wiki",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 14,
+      "platforms": 0,
+      "browserPlayable": false,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 3,
+      "sourceIds": [
+        "steam-popular-new",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
+      "name": "Steven's Scary Wolrd",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 14,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-feed",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Forge Rush",
       "channel": "online",
       "fastClass": "pending",
@@ -349,6 +431,23 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Echo Snake",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
@@ -868,91 +967,6 @@
     },
     {
       "name": "BLACKOUT",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Lantern",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Ourobit",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
-        "itch-newest-web"
-      ]
-    },
-    {
-      "name": "薄荷巧克力-Demo",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
-        "itch-newest-web"
-      ]
-    },
-    {
-      "name": "Sprunkdiddles",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Tetris",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
