@@ -1,36 +1,36 @@
 {
-  "generatedAt": "2026-09-13T15:05:17.111Z",
+  "generatedAt": "2026-09-13T18:11:19.153Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2216,
+  "pendingSeo": 2215,
   "channelCounts": {
-    "pending": 490,
-    "online": 1714,
-    "wiki": 12
+    "pending": 477,
+    "online": 1725,
+    "wiki": 13
   },
   "fastClassCounts": {
-    "pending:pending": 490,
-    "online:pending": 1714,
-    "wiki:pending": 12
+    "pending:pending": 477,
+    "online:pending": 1725,
+    "wiki:pending": 13
   },
   "strategicCounts": {
-    "pending:0": 480,
-    "online:2": 44,
-    "online:1": 1670,
+    "pending:0": 467,
+    "online:1": 1679,
+    "online:2": 46,
     "pending:1": 10,
-    "wiki:1": 12
+    "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1784
+      "count": 1773
     },
     {
       "id": "itch-new-feed",
-      "count": 1776
+      "count": 1763
     },
     {
       "id": "itch-newest-web",
-      "count": 1642
+      "count": 1644
     },
     {
       "id": "trends-rising-7d",
@@ -57,16 +57,16 @@
       "count": 63
     },
     {
-      "id": "trends-rising-30d-indie-game",
-      "count": 46
-    },
-    {
       "id": "itch-new-popular-web",
-      "count": 42
+      "count": 53
     },
     {
       "id": "itch-popular",
-      "count": 42
+      "count": 53
+    },
+    {
+      "id": "trends-rising-30d-indie-game",
+      "count": 46
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -89,15 +89,15 @@
       "count": 29
     },
     {
+      "id": "steam-popular-new",
+      "count": 13
+    },
+    {
       "id": "itch-featured-feed",
       "count": 12
     },
     {
       "id": "itch-featured",
-      "count": 12
-    },
-    {
-      "id": "steam-popular-new",
       "count": 12
     },
     {
@@ -111,7 +111,7 @@
   ],
   "samples": [
     {
-      "name": "Candy Flow Factory",
+      "name": "Trump Wall Building",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -309,6 +309,42 @@
       ]
     },
     {
+      "name": "Maksim's Kitchen Catch｜小馬克開飯啦！",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Back To Basics (Early Access)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 4,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "MrArcade",
       "channel": "online",
       "fastClass": "pending",
@@ -385,7 +421,7 @@
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 14,
+      "discoveryScore": 17,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -926,40 +962,6 @@
     },
     {
       "name": "うさこの野望 ～うさぎ布教大作戦～ TEST版",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Butterfly In-Effect",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "APOGEE",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
