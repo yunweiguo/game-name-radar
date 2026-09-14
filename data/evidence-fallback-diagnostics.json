@@ -1,36 +1,37 @@
 {
-  "generatedAt": "2026-09-14T10:58:51.663Z",
+  "generatedAt": "2026-09-14T16:57:37.370Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2212,
+  "pendingSeo": 2211,
   "channelCounts": {
-    "pending": 434,
-    "online": 1764,
-    "wiki": 14
+    "pending": 413,
+    "online": 1781,
+    "wiki": 17
   },
   "fastClassCounts": {
-    "pending:pending": 434,
-    "online:pending": 1764,
-    "wiki:pending": 14
+    "pending:pending": 413,
+    "online:pending": 1781,
+    "wiki:pending": 17
   },
   "strategicCounts": {
-    "pending:0": 424,
-    "online:1": 1717,
-    "online:2": 47,
-    "pending:1": 10,
-    "wiki:1": 14
+    "pending:0": 401,
+    "online:1": 1735,
+    "online:2": 46,
+    "wiki:2": 2,
+    "pending:1": 12,
+    "wiki:1": 15
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1782
+      "count": 1776
     },
     {
       "id": "itch-new-feed",
-      "count": 1771
+      "count": 1766
     },
     {
       "id": "itch-newest-web",
-      "count": 1699
+      "count": 1715
     },
     {
       "id": "trends-rising-7d",
@@ -65,20 +66,20 @@
       "count": 41
     },
     {
-      "id": "newgrounds-daily-top",
-      "count": 39
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 39
-    },
-    {
       "id": "itch-new-popular-web",
-      "count": 36
+      "count": 38
     },
     {
       "id": "itch-popular",
-      "count": 36
+      "count": 38
+    },
+    {
+      "id": "newgrounds-daily-top",
+      "count": 38
+    },
+    {
+      "id": "newgrounds-top",
+      "count": 38
     },
     {
       "id": "newgrounds-latest",
@@ -90,27 +91,31 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 14
+      "count": 17
     },
     {
       "id": "itch-featured-feed",
-      "count": 12
+      "count": 14
     },
     {
       "id": "itch-featured",
-      "count": 12
+      "count": 14
     },
     {
       "id": "y8-new",
       "count": 3
     },
     {
-      "id": "lagged-new",
+      "id": "steam-latest-indie",
       "count": 2
     },
     {
-      "id": "poki-new",
-      "count": 1
+      "id": "steam-new",
+      "count": 2
+    },
+    {
+      "id": "lagged-new",
+      "count": 2
     }
   ],
   "samples": [
@@ -144,23 +149,6 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
-      ]
-    },
-    {
-      "name": "Smash Room",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "poki-new"
       ]
     },
     {
@@ -441,6 +429,40 @@
       ]
     },
     {
+      "name": "TCG Card Shop Simulator",
+      "channel": "wiki",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 14,
+      "platforms": 0,
+      "browserPlayable": false,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 3,
+      "sourceIds": [
+        "steam-popular-new",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
+      "name": "Neat!",
+      "channel": "wiki",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 14,
+      "platforms": 0,
+      "browserPlayable": false,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 3,
+      "sourceIds": [
+        "steam-popular-new",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
       "name": "Steven's Scary Wolrd",
       "channel": "online",
       "fastClass": "pending",
@@ -449,6 +471,24 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-feed",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Lumen — The Last Light",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 14,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 4,
       "sourceIds": [
@@ -942,40 +982,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Wave Offense 3 Resurrected",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Tiny Infinite Dungeons 64",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
