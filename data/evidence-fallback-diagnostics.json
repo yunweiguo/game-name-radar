@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-14T05:27:29.878Z",
+  "generatedAt": "2026-09-14T10:58:51.663Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2213,
+  "pendingSeo": 2212,
   "channelCounts": {
-    "pending": 443,
-    "online": 1756,
+    "pending": 434,
+    "online": 1764,
     "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 443,
-    "online:pending": 1756,
+    "pending:pending": 434,
+    "online:pending": 1764,
     "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 433,
-    "online:1": 1709,
+    "pending:0": 424,
+    "online:1": 1717,
     "online:2": 47,
     "pending:1": 10,
     "wiki:1": 14
@@ -22,15 +22,15 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1779
+      "count": 1782
     },
     {
       "id": "itch-new-feed",
-      "count": 1769
+      "count": 1771
     },
     {
       "id": "itch-newest-web",
-      "count": 1686
+      "count": 1699
     },
     {
       "id": "trends-rising-7d",
@@ -38,7 +38,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 171
+      "count": 173
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -58,19 +58,11 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 46
-    },
-    {
-      "id": "itch-new-popular-web",
-      "count": 41
-    },
-    {
-      "id": "itch-popular",
-      "count": 41
+      "count": 47
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 40
+      "count": 41
     },
     {
       "id": "newgrounds-daily-top",
@@ -81,12 +73,20 @@
       "count": 39
     },
     {
+      "id": "itch-new-popular-web",
+      "count": 36
+    },
+    {
+      "id": "itch-popular",
+      "count": 36
+    },
+    {
       "id": "newgrounds-latest",
-      "count": 30
+      "count": 29
     },
     {
       "id": "newgrounds-new",
-      "count": 30
+      "count": 29
     },
     {
       "id": "steam-popular-new",
@@ -107,28 +107,13 @@
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "poki-new",
+      "count": 1
     }
   ],
   "samples": [
-    {
-      "name": "First Try",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 14,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "newgrounds-latest",
-        "newgrounds-new"
-      ]
-    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -159,6 +144,23 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Smash Room",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "poki-new"
       ]
     },
     {
