@@ -1,37 +1,36 @@
 {
-  "generatedAt": "2026-09-14T20:56:51.585Z",
+  "generatedAt": "2026-09-14T23:51:36.340Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2209,
+  "pendingSeo": 2206,
   "channelCounts": {
-    "pending": 389,
-    "online": 1800,
-    "wiki": 20
+    "pending": 378,
+    "online": 1809,
+    "wiki": 19
   },
   "fastClassCounts": {
-    "pending:pending": 389,
-    "online:pending": 1800,
-    "wiki:pending": 20
+    "pending:pending": 378,
+    "online:pending": 1809,
+    "wiki:pending": 19
   },
   "strategicCounts": {
-    "pending:0": 377,
+    "pending:0": 366,
     "online:2": 48,
-    "online:1": 1752,
-    "wiki:2": 2,
+    "online:1": 1761,
     "pending:1": 12,
-    "wiki:1": 18
+    "wiki:1": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1771
+      "count": 1776
     },
     {
       "id": "itch-new-feed",
-      "count": 1761
+      "count": 1766
     },
     {
       "id": "itch-newest-web",
-      "count": 1735
+      "count": 1751
     },
     {
       "id": "trends-rising-7d",
@@ -66,20 +65,20 @@
       "count": 41
     },
     {
-      "id": "itch-new-popular-web",
-      "count": 38
-    },
-    {
-      "id": "itch-popular",
-      "count": 38
-    },
-    {
       "id": "newgrounds-daily-top",
-      "count": 37
+      "count": 36
     },
     {
       "id": "newgrounds-top",
-      "count": 37
+      "count": 36
+    },
+    {
+      "id": "itch-new-popular-web",
+      "count": 34
+    },
+    {
+      "id": "itch-popular",
+      "count": 34
     },
     {
       "id": "newgrounds-latest",
@@ -91,7 +90,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 20
+      "count": 19
     },
     {
       "id": "itch-featured-feed",
@@ -103,42 +102,14 @@
     },
     {
       "id": "y8-new",
-      "count": 4
-    },
-    {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "gamepix-new",
-      "count": 1
     }
   ],
   "samples": [
-    {
-      "name": "Dicebound Survivors",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "gamepix-new"
-      ]
-    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -341,6 +312,25 @@
       ]
     },
     {
+      "name": "Coffee & Chill",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "APOGEE",
       "channel": "online",
       "fastClass": "pending",
@@ -465,40 +455,6 @@
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Fish Lab",
-      "channel": "wiki",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 14,
-      "platforms": 0,
-      "browserPlayable": false,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 3,
-      "sourceIds": [
-        "steam-popular-new",
-        "steam-latest-indie",
-        "steam-new"
-      ]
-    },
-    {
-      "name": "Tenebris: Terra Incognita",
-      "channel": "wiki",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 14,
-      "platforms": 0,
-      "browserPlayable": false,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 3,
-      "sourceIds": [
-        "steam-popular-new",
-        "steam-latest-indie",
-        "steam-new"
       ]
     },
     {
@@ -980,6 +936,40 @@
     },
     {
       "name": "Dreamfall",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "2D Shooter",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 18,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Battleship",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
