@@ -1,61 +1,61 @@
 {
-  "generatedAt": "2026-09-14T16:57:37.370Z",
+  "generatedAt": "2026-09-14T20:56:51.585Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2211,
+  "pendingSeo": 2209,
   "channelCounts": {
-    "pending": 413,
-    "online": 1781,
-    "wiki": 17
+    "pending": 389,
+    "online": 1800,
+    "wiki": 20
   },
   "fastClassCounts": {
-    "pending:pending": 413,
-    "online:pending": 1781,
-    "wiki:pending": 17
+    "pending:pending": 389,
+    "online:pending": 1800,
+    "wiki:pending": 20
   },
   "strategicCounts": {
-    "pending:0": 401,
-    "online:1": 1735,
-    "online:2": 46,
+    "pending:0": 377,
+    "online:2": 48,
+    "online:1": 1752,
     "wiki:2": 2,
     "pending:1": 12,
-    "wiki:1": 15
+    "wiki:1": 18
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1776
+      "count": 1771
     },
     {
       "id": "itch-new-feed",
-      "count": 1766
+      "count": 1761
     },
     {
       "id": "itch-newest-web",
-      "count": 1715
+      "count": 1735
     },
     {
       "id": "trends-rising-7d",
-      "count": 281
+      "count": 282
     },
     {
       "id": "trends-rising-30d",
-      "count": 173
+      "count": 174
     },
     {
       "id": "trends-rising-7d-horror-game",
       "count": 137
     },
     {
+      "id": "trends-rising-30d-horror-game",
+      "count": 89
+    },
+    {
       "id": "trends-rising-7d-indie-game",
       "count": 88
     },
     {
-      "id": "trends-rising-30d-horror-game",
-      "count": 88
-    },
-    {
       "id": "trends-rising-7d-itch-io",
-      "count": 63
+      "count": 64
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -75,11 +75,11 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 38
+      "count": 37
     },
     {
       "id": "newgrounds-top",
-      "count": 38
+      "count": 37
     },
     {
       "id": "newgrounds-latest",
@@ -91,7 +91,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 17
+      "count": 20
     },
     {
       "id": "itch-featured-feed",
@@ -103,7 +103,7 @@
     },
     {
       "id": "y8-new",
-      "count": 3
+      "count": 4
     },
     {
       "id": "steam-latest-indie",
@@ -116,9 +116,29 @@
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "gamepix-new",
+      "count": 1
     }
   ],
   "samples": [
+    {
+      "name": "Dicebound Survivors",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "gamepix-new"
+      ]
+    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -149,6 +169,25 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "We Die IN Glory",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -429,14 +468,14 @@
       ]
     },
     {
-      "name": "TCG Card Shop Simulator",
+      "name": "Fish Lab",
       "channel": "wiki",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 14,
       "platforms": 0,
       "browserPlayable": false,
-      "nameRisk": 5,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 3,
       "sourceIds": [
@@ -446,14 +485,14 @@
       ]
     },
     {
-      "name": "Neat!",
+      "name": "Tenebris: Terra Incognita",
       "channel": "wiki",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 14,
       "platforms": 0,
       "browserPlayable": false,
-      "nameRisk": 5,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 3,
       "sourceIds": [
@@ -496,6 +535,23 @@
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Swarm.",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 13,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-new-feed",
+        "itch-new",
+        "itch-newest-web"
       ]
     },
     {
@@ -931,57 +987,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "2D Shooter",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 18,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Battleship",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Slime Clicker",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
