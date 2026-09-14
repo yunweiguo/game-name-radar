@@ -1,36 +1,36 @@
 {
-  "generatedAt": "2026-09-13T22:39:30.345Z",
+  "generatedAt": "2026-09-14T00:26:00.713Z",
   "totalCandidates": 3000,
   "pendingSeo": 2214,
   "channelCounts": {
-    "pending": 465,
-    "online": 1736,
+    "pending": 460,
+    "online": 1741,
     "wiki": 13
   },
   "fastClassCounts": {
-    "pending:pending": 465,
-    "online:pending": 1736,
+    "pending:pending": 460,
+    "online:pending": 1741,
     "wiki:pending": 13
   },
   "strategicCounts": {
-    "pending:0": 455,
-    "online:1": 1690,
-    "online:2": 46,
+    "pending:0": 450,
+    "online:1": 1694,
+    "online:2": 47,
     "pending:1": 10,
     "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1768
+      "count": 1780
     },
     {
       "id": "itch-new-feed",
-      "count": 1758
+      "count": 1769
     },
     {
       "id": "itch-newest-web",
-      "count": 1653
+      "count": 1670
     },
     {
       "id": "trends-rising-7d",
@@ -57,16 +57,16 @@
       "count": 63
     },
     {
+      "id": "trends-rising-30d-indie-game",
+      "count": 46
+    },
+    {
       "id": "itch-new-popular-web",
-      "count": 57
+      "count": 45
     },
     {
       "id": "itch-popular",
-      "count": 57
-    },
-    {
-      "id": "trends-rising-30d-indie-game",
-      "count": 46
+      "count": 45
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -82,11 +82,11 @@
     },
     {
       "id": "newgrounds-latest",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-new",
-      "count": 29
+      "count": 30
     },
     {
       "id": "steam-popular-new",
@@ -140,6 +140,24 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Clouds",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "newgrounds-latest",
+        "newgrounds-new"
       ]
     },
     {
@@ -948,23 +966,6 @@
     },
     {
       "name": "Tiny Infinite Dungeons 64",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "うさこの野望 ～うさぎ布教大作戦～ TEST版",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
