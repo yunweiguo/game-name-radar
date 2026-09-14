@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-09-14T00:26:00.713Z",
+  "generatedAt": "2026-09-14T05:27:29.878Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2214,
+  "pendingSeo": 2213,
   "channelCounts": {
-    "pending": 460,
-    "online": 1741,
-    "wiki": 13
+    "pending": 443,
+    "online": 1756,
+    "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 460,
-    "online:pending": 1741,
-    "wiki:pending": 13
+    "pending:pending": 443,
+    "online:pending": 1756,
+    "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 450,
-    "online:1": 1694,
+    "pending:0": 433,
+    "online:1": 1709,
     "online:2": 47,
     "pending:1": 10,
-    "wiki:1": 13
+    "wiki:1": 14
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1780
+      "count": 1779
     },
     {
       "id": "itch-new-feed",
@@ -30,7 +30,7 @@
     },
     {
       "id": "itch-newest-web",
-      "count": 1670
+      "count": 1686
     },
     {
       "id": "trends-rising-7d",
@@ -62,11 +62,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 45
+      "count": 41
     },
     {
       "id": "itch-popular",
-      "count": 45
+      "count": 41
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -74,11 +74,11 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 36
+      "count": 39
     },
     {
       "id": "newgrounds-top",
-      "count": 36
+      "count": 39
     },
     {
       "id": "newgrounds-latest",
@@ -90,7 +90,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 13
+      "count": 14
     },
     {
       "id": "itch-featured-feed",
@@ -110,6 +110,25 @@
     }
   ],
   "samples": [
+    {
+      "name": "First Try",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 14,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "newgrounds-latest",
+        "newgrounds-new"
+      ]
+    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -140,24 +159,6 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
-      ]
-    },
-    {
-      "name": "Clouds",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "newgrounds-latest",
-        "newgrounds-new"
       ]
     },
     {
