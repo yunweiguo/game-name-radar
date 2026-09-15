@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-09-14T23:51:36.340Z",
+  "generatedAt": "2026-09-15T04:51:23.144Z",
   "totalCandidates": 3000,
   "pendingSeo": 2206,
   "channelCounts": {
-    "pending": 378,
-    "online": 1809,
+    "pending": 365,
+    "online": 1822,
     "wiki": 19
   },
   "fastClassCounts": {
-    "pending:pending": 378,
-    "online:pending": 1809,
+    "pending:pending": 365,
+    "online:pending": 1822,
     "wiki:pending": 19
   },
   "strategicCounts": {
-    "pending:0": 366,
-    "online:2": 48,
-    "online:1": 1761,
-    "pending:1": 12,
+    "pending:0": 354,
+    "online:1": 1773,
+    "online:2": 49,
+    "pending:1": 11,
     "wiki:1": 19
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1776
+      "count": 1785
     },
     {
       "id": "itch-new-feed",
-      "count": 1766
+      "count": 1775
     },
     {
       "id": "itch-newest-web",
-      "count": 1751
+      "count": 1774
     },
     {
       "id": "trends-rising-7d",
-      "count": 282
+      "count": 283
     },
     {
       "id": "trends-rising-30d",
-      "count": 174
+      "count": 178
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 137
+      "count": 138
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 89
+      "count": 91
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -58,7 +58,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 47
+      "count": 49
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -66,19 +66,11 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 36
+      "count": 39
     },
     {
       "id": "newgrounds-top",
-      "count": 36
-    },
-    {
-      "id": "itch-new-popular-web",
-      "count": 34
-    },
-    {
-      "id": "itch-popular",
-      "count": 34
+      "count": 39
     },
     {
       "id": "newgrounds-latest",
@@ -89,16 +81,24 @@
       "count": 29
     },
     {
+      "id": "itch-new-popular-web",
+      "count": 22
+    },
+    {
+      "id": "itch-popular",
+      "count": 22
+    },
+    {
       "id": "steam-popular-new",
       "count": 19
     },
     {
       "id": "itch-featured-feed",
-      "count": 14
+      "count": 13
     },
     {
       "id": "itch-featured",
-      "count": 14
+      "count": 13
     },
     {
       "id": "y8-new",
@@ -143,11 +143,30 @@
       ]
     },
     {
-      "name": "We Die IN Glory",
+      "name": "Mine & Gamble",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Chronaera",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
@@ -162,14 +181,14 @@
       ]
     },
     {
-      "name": "Mine & Gamble",
+      "name": "We Die IN Glory",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -960,23 +979,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 18,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Battleship",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
