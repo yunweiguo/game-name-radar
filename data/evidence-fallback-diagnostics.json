@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-09-15T14:59:16.530Z",
+  "generatedAt": "2026-09-15T18:58:54.988Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2206,
+  "pendingSeo": 2205,
   "channelCounts": {
     "pending": 362,
-    "online": 1834,
-    "wiki": 10
+    "wiki": 13,
+    "online": 1830
   },
   "fastClassCounts": {
     "pending:pending": 362,
-    "online:pending": 1834,
-    "wiki:pending": 10
+    "wiki:pending": 13,
+    "online:pending": 1830
   },
   "strategicCounts": {
     "pending:0": 358,
-    "online:2": 54,
-    "online:1": 1780,
+    "wiki:1": 12,
+    "online:2": 56,
+    "online:1": 1774,
     "wiki:2": 1,
-    "pending:1": 4,
-    "wiki:1": 9
+    "pending:1": 4
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1809
+      "count": 1803
     },
     {
       "id": "itch-newest-web",
-      "count": 1798
+      "count": 1792
     },
     {
       "id": "itch-new-feed",
-      "count": 1797
+      "count": 1790
     },
     {
       "id": "trends-rising-7d",
-      "count": 286
+      "count": 287
     },
     {
       "id": "trends-rising-30d",
-      "count": 181
+      "count": 183
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -51,7 +51,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 88
+      "count": 89
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -63,7 +63,15 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 41
+      "count": 43
+    },
+    {
+      "id": "itch-new-popular-web",
+      "count": 29
+    },
+    {
+      "id": "itch-popular",
+      "count": 29
     },
     {
       "id": "newgrounds-latest",
@@ -72,14 +80,6 @@
     {
       "id": "newgrounds-new",
       "count": 29
-    },
-    {
-      "id": "itch-new-popular-web",
-      "count": 27
-    },
-    {
-      "id": "itch-popular",
-      "count": 27
     },
     {
       "id": "newgrounds-daily-top",
@@ -91,7 +91,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 10
+      "count": 13
     },
     {
       "id": "itch-featured-feed",
@@ -103,22 +103,38 @@
     },
     {
       "id": "y8-new",
-      "count": 3
+      "count": 4
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "steam-latest-indie",
-      "count": 1
+      "count": 2
     },
     {
       "id": "steam-new",
-      "count": 1
+      "count": 2
     }
   ],
   "samples": [
+    {
+      "name": "Red Pippy",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "lagged-new"
+      ]
+    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -435,6 +451,24 @@
       ]
     },
     {
+      "name": "Hero Gets Slimed",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "TINY WIZARDS",
       "channel": "online",
       "fastClass": "pending",
@@ -579,7 +613,7 @@
       ]
     },
     {
-      "name": "Mixed Spirits: Bartender",
+      "name": "Rollout Inline",
       "channel": "wiki",
       "fastClass": "pending",
       "fastScore": 0,
@@ -629,6 +663,25 @@
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Neon Ascent",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 14,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "steam-latest-indie",
+        "steam-new"
       ]
     },
     {
@@ -945,57 +998,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Purgatoire",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "BlackJack",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Block Merge",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
