@@ -1,52 +1,53 @@
 {
-  "generatedAt": "2026-09-15T10:03:23.088Z",
+  "generatedAt": "2026-09-15T14:59:16.530Z",
   "totalCandidates": 3000,
   "pendingSeo": 2206,
   "channelCounts": {
-    "pending": 359,
-    "online": 1840,
-    "wiki": 7
+    "pending": 362,
+    "online": 1834,
+    "wiki": 10
   },
   "fastClassCounts": {
-    "pending:pending": 359,
-    "online:pending": 1840,
-    "wiki:pending": 7
+    "pending:pending": 362,
+    "online:pending": 1834,
+    "wiki:pending": 10
   },
   "strategicCounts": {
-    "pending:0": 354,
-    "online:2": 52,
-    "online:1": 1788,
-    "pending:1": 5,
-    "wiki:1": 7
+    "pending:0": 358,
+    "online:2": 54,
+    "online:1": 1780,
+    "wiki:2": 1,
+    "pending:1": 4,
+    "wiki:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1807
+      "count": 1809
     },
     {
       "id": "itch-newest-web",
-      "count": 1796
+      "count": 1798
     },
     {
       "id": "itch-new-feed",
-      "count": 1796
+      "count": 1797
     },
     {
       "id": "trends-rising-7d",
-      "count": 283
+      "count": 286
     },
     {
       "id": "trends-rising-30d",
-      "count": 178
+      "count": 181
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 138
+      "count": 141
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 91
+      "count": 94
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -65,14 +66,6 @@
       "count": 41
     },
     {
-      "id": "newgrounds-daily-top",
-      "count": 35
-    },
-    {
-      "id": "newgrounds-top",
-      "count": 35
-    },
-    {
       "id": "newgrounds-latest",
       "count": 29
     },
@@ -82,23 +75,31 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 25
+      "count": 27
     },
     {
       "id": "itch-popular",
-      "count": 25
+      "count": 27
     },
     {
-      "id": "itch-featured-feed",
-      "count": 7
+      "id": "newgrounds-daily-top",
+      "count": 27
     },
     {
-      "id": "itch-featured",
-      "count": 7
+      "id": "newgrounds-top",
+      "count": 27
     },
     {
       "id": "steam-popular-new",
-      "count": 7
+      "count": 10
+    },
+    {
+      "id": "itch-featured-feed",
+      "count": 6
+    },
+    {
+      "id": "itch-featured",
+      "count": 6
     },
     {
       "id": "y8-new",
@@ -107,6 +108,14 @@
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 1
+    },
+    {
+      "id": "steam-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -162,14 +171,14 @@
       ]
     },
     {
-      "name": "Mine & Gamble",
+      "name": "Trust the System",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -314,6 +323,25 @@
       ]
     },
     {
+      "name": "Mine & Gamble",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Inkarn8: First Pages",
       "channel": "online",
       "fastClass": "pending",
@@ -402,6 +430,24 @@
         "itch-newest-web",
         "itch-new",
         "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "TINY WIZARDS",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -533,6 +579,23 @@
       ]
     },
     {
+      "name": "Mixed Spirits: Bartender",
+      "channel": "wiki",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 14,
+      "platforms": 0,
+      "browserPlayable": false,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 3,
+      "sourceIds": [
+        "steam-popular-new",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
       "name": "Steven's Scary Wolrd",
       "channel": "online",
       "fastClass": "pending",
@@ -586,40 +649,6 @@
       ]
     },
     {
-      "name": "Forge Rush",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Last Light",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
       "name": "Asteroids",
       "channel": "online",
       "fastClass": "pending",
@@ -645,6 +674,40 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Forge Rush",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Last Light",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
@@ -933,57 +996,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Overcharged",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "charge",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Game 22",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 18,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
