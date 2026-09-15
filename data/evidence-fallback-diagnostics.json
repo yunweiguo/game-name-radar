@@ -1,36 +1,36 @@
 {
-  "generatedAt": "2026-09-15T04:51:23.144Z",
+  "generatedAt": "2026-09-15T10:03:23.088Z",
   "totalCandidates": 3000,
   "pendingSeo": 2206,
   "channelCounts": {
-    "pending": 365,
-    "online": 1822,
-    "wiki": 19
+    "pending": 359,
+    "online": 1840,
+    "wiki": 7
   },
   "fastClassCounts": {
-    "pending:pending": 365,
-    "online:pending": 1822,
-    "wiki:pending": 19
+    "pending:pending": 359,
+    "online:pending": 1840,
+    "wiki:pending": 7
   },
   "strategicCounts": {
     "pending:0": 354,
-    "online:1": 1773,
-    "online:2": 49,
-    "pending:1": 11,
-    "wiki:1": 19
+    "online:2": 52,
+    "online:1": 1788,
+    "pending:1": 5,
+    "wiki:1": 7
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1785
-    },
-    {
-      "id": "itch-new-feed",
-      "count": 1775
+      "count": 1807
     },
     {
       "id": "itch-newest-web",
-      "count": 1774
+      "count": 1796
+    },
+    {
+      "id": "itch-new-feed",
+      "count": 1796
     },
     {
       "id": "trends-rising-7d",
@@ -66,11 +66,11 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 39
+      "count": 35
     },
     {
       "id": "newgrounds-top",
-      "count": 39
+      "count": 35
     },
     {
       "id": "newgrounds-latest",
@@ -82,23 +82,23 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 22
+      "count": 25
     },
     {
       "id": "itch-popular",
-      "count": 22
-    },
-    {
-      "id": "steam-popular-new",
-      "count": 19
+      "count": 25
     },
     {
       "id": "itch-featured-feed",
-      "count": 13
+      "count": 7
     },
     {
       "id": "itch-featured",
-      "count": 13
+      "count": 7
+    },
+    {
+      "id": "steam-popular-new",
+      "count": 7
     },
     {
       "id": "y8-new",
@@ -143,11 +143,49 @@
       ]
     },
     {
+      "name": "Token Burner",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Mine & Gamble",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Astral Last Stand",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -364,6 +402,24 @@
         "itch-newest-web",
         "itch-new",
         "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Phighting Feelings Web",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
         "itch-new-popular-web",
         "itch-popular"
       ]
@@ -921,57 +977,6 @@
     },
     {
       "name": "Game 22",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 18,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "EMBER",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Dreamfall",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "2D Shooter",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
