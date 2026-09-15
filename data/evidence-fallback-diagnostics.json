@@ -1,37 +1,36 @@
 {
-  "generatedAt": "2026-09-15T18:58:54.988Z",
+  "generatedAt": "2026-09-15T22:12:49.861Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2205,
+  "pendingSeo": 2202,
   "channelCounts": {
-    "pending": 362,
-    "wiki": 13,
-    "online": 1830
+    "pending": 363,
+    "online": 1828,
+    "wiki": 11
   },
   "fastClassCounts": {
-    "pending:pending": 362,
-    "wiki:pending": 13,
-    "online:pending": 1830
+    "pending:pending": 363,
+    "online:pending": 1828,
+    "wiki:pending": 11
   },
   "strategicCounts": {
-    "pending:0": 358,
-    "wiki:1": 12,
-    "online:2": 56,
-    "online:1": 1774,
-    "wiki:2": 1,
-    "pending:1": 4
+    "pending:0": 359,
+    "online:2": 57,
+    "online:1": 1771,
+    "pending:1": 4,
+    "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1803
+      "count": 1802
     },
     {
       "id": "itch-newest-web",
-      "count": 1792
+      "count": 1791
     },
     {
       "id": "itch-new-feed",
-      "count": 1790
+      "count": 1789
     },
     {
       "id": "trends-rising-7d",
@@ -39,19 +38,19 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 183
+      "count": 184
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 141
+      "count": 142
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 94
+      "count": 95
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 89
+      "count": 88
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -67,19 +66,19 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 29
+      "count": 30
     },
     {
       "id": "itch-popular",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-latest",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-new",
-      "count": 29
+      "count": 30
     },
     {
       "id": "newgrounds-daily-top",
@@ -91,7 +90,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 13
+      "count": 11
     },
     {
       "id": "itch-featured-feed",
@@ -103,36 +102,39 @@
     },
     {
       "id": "y8-new",
-      "count": 4
-    },
-    {
-      "id": "lagged-new",
       "count": 3
     },
     {
-      "id": "steam-latest-indie",
+      "id": "lagged-new",
       "count": 2
     },
     {
+      "id": "steam-latest-indie",
+      "count": 1
+    },
+    {
       "id": "steam-new",
-      "count": 2
+      "count": 1
     }
   ],
   "samples": [
     {
-      "name": "Red Pippy",
+      "name": "Pico der Untoten",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 12,
+      "discoveryScore": 14,
       "platforms": 2,
       "browserPlayable": true,
       "nameRisk": 0,
       "strategicCount": 2,
-      "sourceCount": 2,
+      "sourceCount": 5,
       "sourceIds": [
-        "y8-new",
-        "lagged-new"
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "newgrounds-latest",
+        "newgrounds-new"
       ]
     },
     {
@@ -165,6 +167,25 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Nomnado",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -613,23 +634,6 @@
       ]
     },
     {
-      "name": "Rollout Inline",
-      "channel": "wiki",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 14,
-      "platforms": 0,
-      "browserPlayable": false,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 3,
-      "sourceIds": [
-        "steam-popular-new",
-        "steam-latest-indie",
-        "steam-new"
-      ]
-    },
-    {
       "name": "Steven's Scary Wolrd",
       "channel": "online",
       "fastClass": "pending",
@@ -699,23 +703,6 @@
         "itch-new-feed",
         "itch-new",
         "itch-newest-web"
-      ]
-    },
-    {
-      "name": "Asteroids",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
       ]
     },
     {
@@ -998,6 +985,23 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Purgatoire",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
