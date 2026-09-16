@@ -1,37 +1,37 @@
 {
-  "generatedAt": "2026-09-16T00:16:58.654Z",
+  "generatedAt": "2026-09-16T04:53:04.370Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2201,
+  "pendingSeo": 2199,
   "channelCounts": {
-    "wiki": 14,
-    "pending": 362,
-    "online": 1825
+    "pending": 363,
+    "online": 1823,
+    "wiki": 13
   },
   "fastClassCounts": {
-    "wiki:pending": 14,
-    "pending:pending": 362,
-    "online:pending": 1825
+    "pending:pending": 363,
+    "online:pending": 1823,
+    "wiki:pending": 13
   },
   "strategicCounts": {
-    "wiki:1": 13,
-    "pending:0": 358,
-    "online:2": 56,
-    "online:1": 1769,
+    "pending:0": 359,
+    "online:2": 57,
+    "online:1": 1766,
     "wiki:2": 1,
-    "pending:1": 4
+    "pending:1": 4,
+    "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1799
+      "count": 1797
     },
     {
       "id": "itch-newest-web",
-      "count": 1788
+      "count": 1786
     },
     {
       "id": "itch-new-feed",
-      "count": 1786
+      "count": 1784
     },
     {
       "id": "trends-rising-7d",
@@ -43,7 +43,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 142
+      "count": 141
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -51,7 +51,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 88
+      "count": 89
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -67,11 +67,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 30
+      "count": 31
     },
     {
       "id": "itch-popular",
-      "count": 30
+      "count": 31
     },
     {
       "id": "newgrounds-latest",
@@ -91,7 +91,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 14
+      "count": 13
     },
     {
       "id": "itch-featured-feed",
@@ -176,6 +176,25 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Gelateria Clickeria",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -616,14 +635,14 @@
       ]
     },
     {
-      "name": "Sublight",
+      "name": "HOPE 01",
       "channel": "wiki",
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 14,
       "platforms": 0,
       "browserPlayable": false,
-      "nameRisk": 5,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 3,
       "sourceIds": [
@@ -984,23 +1003,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Purgatoire",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
