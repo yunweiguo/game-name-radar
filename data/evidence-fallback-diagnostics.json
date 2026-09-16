@@ -1,45 +1,44 @@
 {
-  "generatedAt": "2026-09-16T04:53:04.370Z",
+  "generatedAt": "2026-09-16T09:55:09.002Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2199,
+  "pendingSeo": 2198,
   "channelCounts": {
     "pending": 363,
     "online": 1823,
-    "wiki": 13
+    "wiki": 12
   },
   "fastClassCounts": {
     "pending:pending": 363,
     "online:pending": 1823,
-    "wiki:pending": 13
+    "wiki:pending": 12
   },
   "strategicCounts": {
     "pending:0": 359,
-    "online:2": 57,
-    "online:1": 1766,
-    "wiki:2": 1,
+    "online:2": 60,
+    "online:1": 1763,
     "pending:1": 4,
     "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1797
+      "count": 1795
     },
     {
       "id": "itch-newest-web",
-      "count": 1786
-    },
-    {
-      "id": "itch-new-feed",
       "count": 1784
     },
     {
+      "id": "itch-new-feed",
+      "count": 1782
+    },
+    {
       "id": "trends-rising-7d",
-      "count": 287
+      "count": 288
     },
     {
       "id": "trends-rising-30d",
-      "count": 184
+      "count": 185
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -47,7 +46,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 95
+      "count": 96
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -55,7 +54,7 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 64
+      "count": 65
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -67,11 +66,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 31
+      "count": 32
     },
     {
       "id": "itch-popular",
-      "count": 31
+      "count": 32
     },
     {
       "id": "newgrounds-latest",
@@ -91,7 +90,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 13
+      "count": 12
     },
     {
       "id": "itch-featured-feed",
@@ -103,22 +102,58 @@
     },
     {
       "id": "y8-new",
-      "count": 3
+      "count": 5
     },
     {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
+      "id": "gamepix-new",
       "count": 2
     },
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 1
+    },
+    {
+      "id": "steam-new",
+      "count": 1
     }
   ],
   "samples": [
+    {
+      "name": "Cubes Match 3 Quest",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "gamepix-new"
+      ]
+    },
+    {
+      "name": "Shadow Fit",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "gamepix-new"
+      ]
+    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -191,6 +226,25 @@
     },
     {
       "name": "Gelateria Clickeria",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Old Digger",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -635,23 +689,6 @@
       ]
     },
     {
-      "name": "HOPE 01",
-      "channel": "wiki",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 14,
-      "platforms": 0,
-      "browserPlayable": false,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 3,
-      "sourceIds": [
-        "steam-popular-new",
-        "steam-latest-indie",
-        "steam-new"
-      ]
-    },
-    {
       "name": "Steven's Scary Wolrd",
       "channel": "online",
       "fastClass": "pending",
@@ -721,6 +758,23 @@
         "itch-new-feed",
         "itch-new",
         "itch-newest-web"
+      ]
+    },
+    {
+      "name": "Fireline",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
       ]
     },
     {
@@ -952,57 +1006,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Moribund",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "+Espacio",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Fishing For Compliments",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
