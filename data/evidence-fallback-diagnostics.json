@@ -1,36 +1,36 @@
 {
-  "generatedAt": "2026-09-17T05:23:07.738Z",
+  "generatedAt": "2026-09-17T10:26:00.114Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2190,
+  "pendingSeo": 2189,
   "channelCounts": {
     "pending": 374,
-    "online": 1803,
+    "online": 1802,
     "wiki": 13
   },
   "fastClassCounts": {
     "pending:pending": 374,
-    "online:pending": 1803,
+    "online:pending": 1802,
     "wiki:pending": 13
   },
   "strategicCounts": {
     "pending:0": 369,
-    "online:2": 65,
-    "online:1": 1738,
+    "online:2": 67,
+    "online:1": 1735,
     "pending:1": 5,
     "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1777
+      "count": 1776
     },
     {
       "id": "itch-newest-web",
-      "count": 1766
+      "count": 1765
     },
     {
       "id": "itch-new-feed",
-      "count": 1764
+      "count": 1763
     },
     {
       "id": "trends-rising-7d",
@@ -62,15 +62,15 @@
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 44
+      "count": 45
     },
     {
       "id": "itch-new-popular-web",
-      "count": 38
+      "count": 41
     },
     {
       "id": "itch-popular",
-      "count": 38
+      "count": 41
     },
     {
       "id": "newgrounds-latest",
@@ -82,11 +82,11 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 28
+      "count": 27
     },
     {
       "id": "newgrounds-top",
-      "count": 28
+      "count": 27
     },
     {
       "id": "steam-popular-new",
@@ -118,25 +118,6 @@
     }
   ],
   "samples": [
-    {
-      "name": "Senescence Protocol",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 16,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "newgrounds-daily-top",
-        "newgrounds-top"
-      ]
-    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -216,6 +197,63 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Gridbound",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Luv Parade",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Outblight",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -804,24 +842,6 @@
       ]
     },
     {
-      "name": "Lumen — The Last Light",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 14,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Neon Ascent",
       "channel": "online",
       "fastClass": "pending",
@@ -855,6 +875,24 @@
         "itch-new-feed",
         "itch-new",
         "itch-newest-web"
+      ]
+    },
+    {
+      "name": "Lumen — The Last Light",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-feed",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -990,40 +1028,6 @@
       "sourceIds": [
         "itch-newest-web",
         "itch-new"
-      ]
-    },
-    {
-      "name": "Math 3D",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Space-Shooter",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
       ]
     }
   ]
