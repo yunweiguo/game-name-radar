@@ -1,36 +1,37 @@
 {
-  "generatedAt": "2026-09-16T22:08:54.235Z",
+  "generatedAt": "2026-09-17T00:28:54.338Z",
   "totalCandidates": 3000,
   "pendingSeo": 2193,
   "channelCounts": {
-    "pending": 363,
-    "online": 1813,
-    "wiki": 17
+    "pending": 362,
+    "online": 1819,
+    "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 363,
-    "online:pending": 1813,
-    "wiki:pending": 17
+    "pending:pending": 362,
+    "online:pending": 1819,
+    "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 359,
-    "online:2": 64,
-    "online:1": 1749,
+    "pending:0": 358,
+    "online:2": 66,
+    "online:1": 1753,
+    "wiki:2": 1,
     "pending:1": 4,
-    "wiki:1": 17
+    "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1787
+      "count": 1792
     },
     {
       "id": "itch-newest-web",
-      "count": 1776
+      "count": 1781
     },
     {
       "id": "itch-new-feed",
-      "count": 1774
+      "count": 1778
     },
     {
       "id": "trends-rising-7d",
@@ -38,7 +39,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 185
+      "count": 184
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -46,7 +47,7 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 96
+      "count": 95
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -90,7 +91,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 17
+      "count": 12
     },
     {
       "id": "itch-featured-feed",
@@ -102,22 +103,42 @@
     },
     {
       "id": "y8-new",
-      "count": 3
+      "count": 4
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "steam-latest-indie",
-      "count": 1
+      "count": 2
     },
     {
       "id": "steam-new",
+      "count": 2
+    },
+    {
+      "id": "gamepix-new",
       "count": 1
     }
   ],
   "samples": [
+    {
+      "name": "GORILGO FPS Online Shooter",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "gamepix-new",
+        "lagged-new"
+      ]
+    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -148,6 +169,23 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Block Blaster",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "y8-new"
       ]
     },
     {
@@ -767,6 +805,23 @@
       ]
     },
     {
+      "name": "Tidy Up History",
+      "channel": "wiki",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 14,
+      "platforms": 0,
+      "browserPlayable": false,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 3,
+      "sourceIds": [
+        "steam-popular-new",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
       "name": "Steven's Scary Wolrd",
       "channel": "online",
       "fastClass": "pending",
@@ -965,57 +1020,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Space-Shooter",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Shift",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "DISCHARGE",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
