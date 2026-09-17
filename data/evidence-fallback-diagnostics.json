@@ -1,57 +1,57 @@
 {
-  "generatedAt": "2026-09-17T15:18:49.141Z",
+  "generatedAt": "2026-09-17T19:16:12.507Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2189,
+  "pendingSeo": 2187,
   "channelCounts": {
     "pending": 374,
-    "online": 1799,
-    "wiki": 16
+    "online": 1790,
+    "wiki": 23
   },
   "fastClassCounts": {
     "pending:pending": 374,
-    "online:pending": 1799,
-    "wiki:pending": 16
+    "online:pending": 1790,
+    "wiki:pending": 23
   },
   "strategicCounts": {
-    "pending:0": 369,
-    "online:2": 68,
-    "online:1": 1731,
-    "wiki:2": 1,
-    "pending:1": 5,
-    "wiki:1": 15
+    "pending:0": 370,
+    "online:2": 67,
+    "online:1": 1723,
+    "wiki:2": 2,
+    "pending:1": 4,
+    "wiki:1": 21
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1771
+      "count": 1763
     },
     {
       "id": "itch-newest-web",
-      "count": 1760
+      "count": 1752
     },
     {
       "id": "itch-new-feed",
-      "count": 1758
+      "count": 1749
     },
     {
       "id": "trends-rising-7d",
-      "count": 298
+      "count": 300
     },
     {
       "id": "trends-rising-30d",
-      "count": 187
+      "count": 188
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 147
+      "count": 149
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 97
+      "count": 98
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 90
+      "count": 91
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -91,50 +91,34 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 16
+      "count": 23
     },
     {
       "id": "itch-featured-feed",
-      "count": 7
+      "count": 6
     },
     {
       "id": "itch-featured",
-      "count": 7
-    },
-    {
-      "id": "y8-new",
-      "count": 4
+      "count": 6
     },
     {
       "id": "steam-latest-indie",
-      "count": 3
+      "count": 4
     },
     {
       "id": "steam-new",
+      "count": 4
+    },
+    {
+      "id": "y8-new",
       "count": 3
     },
     {
       "id": "lagged-new",
-      "count": 3
+      "count": 2
     }
   ],
   "samples": [
-    {
-      "name": "Ocean Rescue Sort",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "lagged-new"
-      ]
-    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -328,25 +312,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "The Oasis Water Shop's Curious Customers (ワケあり客とオアシスの水屋)",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 3,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -679,6 +644,25 @@
       ]
     },
     {
+      "name": "The Oasis Water Shop's Curious Customers (ワケあり客とオアシスの水屋)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 13,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 3,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Hero Gets Slimed",
       "channel": "online",
       "fastClass": "pending",
@@ -841,7 +825,24 @@
       ]
     },
     {
-      "name": "OpenFront",
+      "name": "Kernel Hearts",
+      "channel": "wiki",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 14,
+      "platforms": 0,
+      "browserPlayable": false,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 3,
+      "sourceIds": [
+        "steam-popular-new",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
+      "name": "Emberward",
       "channel": "wiki",
       "fastClass": "pending",
       "fastScore": 0,
@@ -855,6 +856,24 @@
         "steam-popular-new",
         "steam-latest-indie",
         "steam-new"
+      ]
+    },
+    {
+      "name": "prism",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 4,
+      "sourceIds": [
+        "trends-rising-30d-indie-game",
+        "trends-rising-30d",
+        "itch-newest-web",
+        "itch-new"
       ]
     },
     {
@@ -913,23 +932,6 @@
       ]
     },
     {
-      "name": "Swarm.",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-new-feed",
-        "itch-new",
-        "itch-newest-web"
-      ]
-    },
-    {
       "name": "Lumen — The Last Light",
       "channel": "online",
       "fastClass": "pending",
@@ -962,6 +964,23 @@
         "itch-newest-web",
         "itch-new",
         "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Swarm.",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-new-feed",
+        "itch-new",
+        "itch-newest-web"
       ]
     },
     {
@@ -1007,23 +1026,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Last Light",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
