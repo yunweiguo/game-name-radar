@@ -1,53 +1,52 @@
 {
-  "generatedAt": "2026-09-17T00:28:54.338Z",
+  "generatedAt": "2026-09-17T05:23:07.738Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2193,
+  "pendingSeo": 2190,
   "channelCounts": {
-    "pending": 362,
-    "online": 1819,
-    "wiki": 12
+    "pending": 374,
+    "online": 1803,
+    "wiki": 13
   },
   "fastClassCounts": {
-    "pending:pending": 362,
-    "online:pending": 1819,
-    "wiki:pending": 12
+    "pending:pending": 374,
+    "online:pending": 1803,
+    "wiki:pending": 13
   },
   "strategicCounts": {
-    "pending:0": 358,
-    "online:2": 66,
-    "online:1": 1753,
-    "wiki:2": 1,
-    "pending:1": 4,
-    "wiki:1": 11
+    "pending:0": 369,
+    "online:2": 65,
+    "online:1": 1738,
+    "pending:1": 5,
+    "wiki:1": 13
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1792
+      "count": 1777
     },
     {
       "id": "itch-newest-web",
-      "count": 1781
+      "count": 1766
     },
     {
       "id": "itch-new-feed",
-      "count": 1778
+      "count": 1764
     },
     {
       "id": "trends-rising-7d",
-      "count": 289
+      "count": 298
     },
     {
       "id": "trends-rising-30d",
-      "count": 184
+      "count": 187
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 141
+      "count": 147
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 95
+      "count": 97
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -55,15 +54,15 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 65
+      "count": 68
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 49
+      "count": 50
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 43
+      "count": 44
     },
     {
       "id": "itch-new-popular-web",
@@ -83,60 +82,59 @@
     },
     {
       "id": "newgrounds-daily-top",
-      "count": 27
+      "count": 28
     },
     {
       "id": "newgrounds-top",
-      "count": 27
+      "count": 28
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 13
     },
     {
       "id": "itch-featured-feed",
-      "count": 6
+      "count": 7
     },
     {
       "id": "itch-featured",
-      "count": 6
+      "count": 7
     },
     {
       "id": "y8-new",
-      "count": 4
-    },
-    {
-      "id": "lagged-new",
       "count": 3
     },
     {
-      "id": "steam-latest-indie",
+      "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 1
     },
     {
       "id": "steam-new",
-      "count": 2
-    },
-    {
-      "id": "gamepix-new",
       "count": 1
     }
   ],
   "samples": [
     {
-      "name": "GORILGO FPS Online Shooter",
+      "name": "Senescence Protocol",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 12,
+      "discoveryScore": 16,
       "platforms": 2,
       "browserPlayable": true,
-      "nameRisk": 9,
+      "nameRisk": 0,
       "strategicCount": 2,
-      "sourceCount": 2,
+      "sourceCount": 5,
       "sourceIds": [
-        "gamepix-new",
-        "lagged-new"
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "newgrounds-daily-top",
+        "newgrounds-top"
       ]
     },
     {
@@ -169,23 +167,6 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
-      ]
-    },
-    {
-      "name": "Block Blaster",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 2,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "y8-new"
       ]
     },
     {
@@ -805,23 +786,6 @@
       ]
     },
     {
-      "name": "Tidy Up History",
-      "channel": "wiki",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 14,
-      "platforms": 0,
-      "browserPlayable": false,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 3,
-      "sourceIds": [
-        "steam-popular-new",
-        "steam-latest-indie",
-        "steam-new"
-      ]
-    },
-    {
       "name": "Steven's Scary Wolrd",
       "channel": "online",
       "fastClass": "pending",
@@ -891,6 +855,23 @@
         "itch-new-feed",
         "itch-new",
         "itch-newest-web"
+      ]
+    },
+    {
+      "name": "CAT JUMP!",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
       ]
     },
     {
@@ -1013,6 +994,23 @@
     },
     {
       "name": "Math 3D",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Space-Shooter",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
