@@ -1,49 +1,48 @@
 {
-  "generatedAt": "2026-09-17T22:10:40.968Z",
+  "generatedAt": "2026-09-18T00:15:13.849Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2184,
+  "pendingSeo": 2183,
   "channelCounts": {
-    "pending": 374,
-    "online": 1786,
-    "wiki": 24
+    "pending": 375,
+    "online": 1792,
+    "wiki": 16
   },
   "fastClassCounts": {
-    "pending:pending": 374,
-    "online:pending": 1786,
-    "wiki:pending": 24
+    "pending:pending": 375,
+    "online:pending": 1792,
+    "wiki:pending": 16
   },
   "strategicCounts": {
-    "pending:0": 370,
+    "pending:0": 371,
     "online:2": 67,
-    "online:1": 1719,
-    "wiki:2": 1,
+    "online:1": 1725,
     "pending:1": 4,
-    "wiki:1": 23
+    "wiki:1": 16
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1759
+      "count": 1765
     },
     {
       "id": "itch-newest-web",
-      "count": 1748
+      "count": 1754
     },
     {
       "id": "itch-new-feed",
-      "count": 1746
+      "count": 1752
     },
     {
       "id": "trends-rising-7d",
-      "count": 300
+      "count": 301
     },
     {
       "id": "trends-rising-30d",
-      "count": 187
+      "count": 190
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 149
+      "count": 150
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -59,11 +58,11 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 49
+      "count": 50
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 45
+      "count": 47
     },
     {
       "id": "itch-new-popular-web",
@@ -91,7 +90,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 24
+      "count": 16
     },
     {
       "id": "itch-featured-feed",
@@ -102,16 +101,16 @@
       "count": 6
     },
     {
-      "id": "steam-latest-indie",
+      "id": "y8-new",
       "count": 3
+    },
+    {
+      "id": "steam-latest-indie",
+      "count": 2
     },
     {
       "id": "steam-new",
-      "count": 3
-    },
-    {
-      "id": "y8-new",
-      "count": 3
+      "count": 2
     },
     {
       "id": "lagged-new",
@@ -825,23 +824,6 @@
       ]
     },
     {
-      "name": "Driving Rogue",
-      "channel": "wiki",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 14,
-      "platforms": 0,
-      "browserPlayable": false,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 3,
-      "sourceIds": [
-        "steam-popular-new",
-        "steam-latest-indie",
-        "steam-new"
-      ]
-    },
-    {
       "name": "Steven's Scary Wolrd",
       "channel": "online",
       "fastClass": "pending",
@@ -857,25 +839,6 @@
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Neon Ascent",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 14,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "steam-latest-indie",
-        "steam-new"
       ]
     },
     {
@@ -912,6 +875,25 @@
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Neon Ascent",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "steam-latest-indie",
+        "steam-new"
       ]
     },
     {
@@ -1018,6 +1000,23 @@
     },
     {
       "name": "Echo Snake",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 11,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 1,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed"
+      ]
+    },
+    {
+      "name": "Incredibox - Sprunki Wenda Treatment",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
