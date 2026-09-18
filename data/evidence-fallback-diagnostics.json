@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-09-18T13:35:46.028Z",
+  "generatedAt": "2026-09-18T17:13:03.295Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2182,
+  "pendingSeo": 2181,
   "channelCounts": {
-    "pending": 378,
-    "online": 1787,
-    "wiki": 17
+    "pending": 379,
+    "online": 1784,
+    "wiki": 18
   },
   "fastClassCounts": {
-    "pending:pending": 378,
-    "online:pending": 1787,
-    "wiki:pending": 17
+    "pending:pending": 379,
+    "online:pending": 1784,
+    "wiki:pending": 18
   },
   "strategicCounts": {
-    "pending:0": 374,
-    "online:2": 71,
-    "online:1": 1716,
+    "pending:0": 375,
+    "online:2": 72,
+    "online:1": 1712,
     "pending:1": 4,
-    "wiki:1": 17
+    "wiki:1": 18
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1759
+      "count": 1758
     },
     {
       "id": "itch-newest-web",
-      "count": 1748
-    },
-    {
-      "id": "itch-new-feed",
       "count": 1746
     },
     {
+      "id": "itch-new-feed",
+      "count": 1745
+    },
+    {
       "id": "trends-rising-7d",
-      "count": 305
+      "count": 306
     },
     {
       "id": "trends-rising-30d",
@@ -50,7 +50,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 91
+      "count": 92
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -66,11 +66,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 45
+      "count": 46
     },
     {
       "id": "itch-popular",
-      "count": 45
+      "count": 46
     },
     {
       "id": "newgrounds-latest",
@@ -102,44 +102,38 @@
     },
     {
       "id": "y8-new",
-      "count": 3
+      "count": 4
     },
     {
       "id": "steam-latest-indie",
-      "count": 2
+      "count": 3
     },
     {
       "id": "steam-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "crazygames-new",
-      "count": 1
-    },
-    {
-      "id": "poki-new",
-      "count": 1
     }
   ],
   "samples": [
     {
-      "name": "Hidden Object: Detective Story",
+      "name": "Arrow Puzzle",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 12,
+      "discoveryScore": 14,
       "platforms": 2,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 9,
       "strategicCount": 2,
-      "sourceCount": 2,
+      "sourceCount": 4,
       "sourceIds": [
-        "crazygames-new",
-        "poki-new"
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "y8-new"
       ]
     },
     {
@@ -172,6 +166,25 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Tiny Foundry",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1020,23 +1033,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "2D Platformer",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
       "strategicCount": 1,
       "sourceCount": 3,
       "sourceIds": [
