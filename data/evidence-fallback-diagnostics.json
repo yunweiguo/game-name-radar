@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-09-18T09:13:20.891Z",
+  "generatedAt": "2026-09-18T13:35:46.028Z",
   "totalCandidates": 3000,
   "pendingSeo": 2182,
   "channelCounts": {
-    "pending": 376,
-    "online": 1789,
+    "pending": 378,
+    "online": 1787,
     "wiki": 17
   },
   "fastClassCounts": {
-    "pending:pending": 376,
-    "online:pending": 1789,
+    "pending:pending": 378,
+    "online:pending": 1787,
     "wiki:pending": 17
   },
   "strategicCounts": {
-    "pending:0": 372,
-    "online:2": 70,
-    "online:1": 1719,
+    "pending:0": 374,
+    "online:2": 71,
+    "online:1": 1716,
     "pending:1": 4,
     "wiki:1": 17
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1762
+      "count": 1759
     },
     {
       "id": "itch-newest-web",
-      "count": 1751
+      "count": 1748
     },
     {
       "id": "itch-new-feed",
-      "count": 1749
+      "count": 1746
     },
     {
       "id": "trends-rising-7d",
-      "count": 303
+      "count": 305
     },
     {
       "id": "trends-rising-30d",
-      "count": 190
+      "count": 192
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 151
+      "count": 153
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 98
+      "count": 99
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -58,7 +58,7 @@
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 50
+      "count": 51
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -115,9 +115,33 @@
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "crazygames-new",
+      "count": 1
+    },
+    {
+      "id": "poki-new",
+      "count": 1
     }
   ],
   "samples": [
+    {
+      "name": "Hidden Object: Detective Story",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "crazygames-new",
+        "poki-new"
+      ]
+    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -159,25 +183,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Nomnado",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -406,6 +411,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Nomnado",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1006,23 +1030,6 @@
     },
     {
       "name": "2D Platformer",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 11,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
-      ]
-    },
-    {
-      "name": "Forge Rush",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
