@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-09-18T04:44:06.822Z",
+  "generatedAt": "2026-09-18T09:13:20.891Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2183,
+  "pendingSeo": 2182,
   "channelCounts": {
     "pending": 376,
-    "online": 1790,
+    "online": 1789,
     "wiki": 17
   },
   "fastClassCounts": {
     "pending:pending": 376,
-    "online:pending": 1790,
+    "online:pending": 1789,
     "wiki:pending": 17
   },
   "strategicCounts": {
     "pending:0": 372,
     "online:2": 70,
-    "online:1": 1720,
+    "online:1": 1719,
     "pending:1": 4,
     "wiki:1": 17
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1763
+      "count": 1762
     },
     {
       "id": "itch-newest-web",
-      "count": 1752
+      "count": 1751
     },
     {
       "id": "itch-new-feed",
-      "count": 1750
+      "count": 1749
     },
     {
       "id": "trends-rising-7d",
-      "count": 302
+      "count": 303
     },
     {
       "id": "trends-rising-30d",
@@ -42,7 +42,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 150
+      "count": 151
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -66,11 +66,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 44
+      "count": 45
     },
     {
       "id": "itch-popular",
-      "count": 44
+      "count": 45
     },
     {
       "id": "newgrounds-latest",
@@ -102,7 +102,7 @@
     },
     {
       "id": "y8-new",
-      "count": 4
+      "count": 3
     },
     {
       "id": "steam-latest-indie",
@@ -118,24 +118,6 @@
     }
   ],
   "samples": [
-    {
-      "name": "Liquid Mixer",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 14,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "y8-new"
-      ]
-    },
     {
       "name": "Car and Truck Parking",
       "channel": "online",
@@ -166,6 +148,25 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Ant Colony",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
