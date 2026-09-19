@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-09-19T00:18:53.793Z",
+  "generatedAt": "2026-09-19T05:03:54.140Z",
   "totalCandidates": 3000,
   "pendingSeo": 2177,
   "channelCounts": {
-    "pending": 380,
-    "online": 1785,
+    "pending": 381,
+    "online": 1784,
     "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 380,
-    "online:pending": 1785,
+    "pending:pending": 381,
+    "online:pending": 1784,
     "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 376,
-    "online:1": 1710,
-    "online:2": 75,
+    "pending:0": 377,
+    "online:1": 1708,
+    "online:2": 76,
     "pending:1": 4,
     "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1757
+      "count": 1756
     },
     {
       "id": "itch-newest-web",
-      "count": 1746
+      "count": 1745
     },
     {
       "id": "itch-new-feed",
-      "count": 1742
+      "count": 1741
     },
     {
       "id": "trends-rising-7d",
-      "count": 307
+      "count": 308
     },
     {
       "id": "trends-rising-30d",
@@ -42,7 +42,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 154
+      "count": 155
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -57,15 +57,15 @@
       "count": 69
     },
     {
-      "id": "trends-rising-30d-indie-game",
-      "count": 51
-    },
-    {
       "id": "itch-new-popular-web",
-      "count": 51
+      "count": 52
     },
     {
       "id": "itch-popular",
+      "count": 52
+    },
+    {
+      "id": "trends-rising-30d-indie-game",
       "count": 51
     },
     {
@@ -216,6 +216,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "A Crossed Path (PROLOGUE)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1025,23 +1044,6 @@
         "itch-popular",
         "steam-latest-indie",
         "steam-new"
-      ]
-    },
-    {
-      "name": "Space-Shooter",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 9,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed"
       ]
     }
   ]
