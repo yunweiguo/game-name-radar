@@ -1,60 +1,64 @@
 {
-  "generatedAt": "2026-09-19T05:03:54.140Z",
+  "generatedAt": "2026-09-19T09:28:57.001Z",
   "totalCandidates": 3000,
   "pendingSeo": 2177,
   "channelCounts": {
-    "pending": 381,
-    "online": 1784,
+    "pending": 385,
+    "online": 1780,
     "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 381,
-    "online:pending": 1784,
+    "pending:pending": 385,
+    "online:pending": 1780,
     "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 377,
-    "online:1": 1708,
-    "online:2": 76,
+    "pending:0": 381,
+    "online:2": 77,
+    "online:1": 1703,
     "pending:1": 4,
     "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1756
+      "count": 1752
     },
     {
       "id": "itch-newest-web",
-      "count": 1745
-    },
-    {
-      "id": "itch-new-feed",
       "count": 1741
     },
     {
+      "id": "itch-new-feed",
+      "count": 1737
+    },
+    {
       "id": "trends-rising-7d",
-      "count": 308
+      "count": 311
     },
     {
       "id": "trends-rising-30d",
-      "count": 192
+      "count": 198
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 155
+      "count": 157
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 99
+      "count": 102
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 92
+      "count": 93
     },
     {
       "id": "trends-rising-7d-itch-io",
       "count": 69
+    },
+    {
+      "id": "trends-rising-30d-indie-game",
+      "count": 53
     },
     {
       "id": "itch-new-popular-web",
@@ -65,12 +69,8 @@
       "count": 52
     },
     {
-      "id": "trends-rising-30d-indie-game",
-      "count": 51
-    },
-    {
       "id": "trends-rising-30d-itch-io",
-      "count": 47
+      "count": 48
     },
     {
       "id": "newgrounds-latest",
@@ -94,11 +94,11 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 6
+      "count": 7
     },
     {
       "id": "itch-featured",
-      "count": 6
+      "count": 7
     },
     {
       "id": "y8-new",
@@ -148,6 +148,25 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Rock Declutterer",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 18,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-featured-feed",
+        "itch-featured"
       ]
     },
     {
@@ -1026,24 +1045,6 @@
         "itch-newest-web",
         "itch-new",
         "steam-popular-new"
-      ]
-    },
-    {
-      "name": "O.B.O.L",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "steam-latest-indie",
-        "steam-new"
       ]
     }
   ]
