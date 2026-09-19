@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T16:48:26.247Z",
+  "generatedAt": "2026-09-19T19:18:38.239Z",
   "totalCandidates": 3000,
   "pendingSeo": 2177,
   "channelCounts": {
@@ -15,8 +15,8 @@
   "strategicCounts": {
     "pending:0": 384,
     "online:3": 1,
-    "online:1": 1700,
-    "online:2": 76,
+    "online:1": 1699,
+    "online:2": 77,
     "pending:1": 4,
     "wiki:1": 12
   },
@@ -59,11 +59,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 53
+      "count": 54
     },
     {
       "id": "itch-popular",
-      "count": 53
+      "count": 54
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -235,6 +235,25 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Log Drop",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -1031,23 +1050,6 @@
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "RuneScape: Dragonwilds",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "steam-popular-new"
       ]
     }
   ]
