@@ -1,40 +1,41 @@
 {
-  "generatedAt": "2026-09-19T09:28:57.001Z",
+  "generatedAt": "2026-09-19T13:24:53.237Z",
   "totalCandidates": 3000,
   "pendingSeo": 2177,
   "channelCounts": {
-    "pending": 385,
-    "online": 1780,
+    "pending": 386,
+    "online": 1779,
     "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 385,
-    "online:pending": 1780,
+    "pending:pending": 386,
+    "online:pending": 1779,
     "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 381,
-    "online:2": 77,
-    "online:1": 1703,
+    "pending:0": 382,
+    "online:3": 1,
+    "online:1": 1702,
+    "online:2": 76,
     "pending:1": 4,
     "wiki:1": 12
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1752
+      "count": 1751
     },
     {
       "id": "itch-newest-web",
-      "count": 1741
+      "count": 1740
     },
     {
       "id": "itch-new-feed",
-      "count": 1737
+      "count": 1736
     },
     {
       "id": "trends-rising-7d",
-      "count": 311
+      "count": 313
     },
     {
       "id": "trends-rising-30d",
@@ -50,23 +51,23 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 93
+      "count": 95
     },
     {
       "id": "trends-rising-7d-itch-io",
       "count": 69
     },
     {
-      "id": "trends-rising-30d-indie-game",
+      "id": "itch-new-popular-web",
       "count": 53
     },
     {
-      "id": "itch-new-popular-web",
-      "count": 52
+      "id": "itch-popular",
+      "count": 53
     },
     {
-      "id": "itch-popular",
-      "count": 52
+      "id": "trends-rising-30d-indie-game",
+      "count": 53
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -119,6 +120,27 @@
   ],
   "samples": [
     {
+      "name": "Rock Declutterer",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 20,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 3,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-featured-feed",
+        "itch-featured",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Car and Truck Parking",
       "channel": "online",
       "fastClass": "pending",
@@ -148,25 +170,6 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
-      ]
-    },
-    {
-      "name": "Rock Declutterer",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 18,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-featured-feed",
-        "itch-featured"
       ]
     },
     {
