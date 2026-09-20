@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T21:31:19.183Z",
+  "generatedAt": "2026-09-20T23:31:08.173Z",
   "totalCandidates": 3000,
   "pendingSeo": 2176,
   "channelCounts": {
@@ -15,8 +15,8 @@
   "strategicCounts": {
     "pending:0": 385,
     "online:3": 1,
-    "online:1": 1707,
-    "online:2": 79,
+    "online:1": 1706,
+    "online:2": 80,
     "pending:1": 2,
     "wiki:1": 2
   },
@@ -59,11 +59,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 56
+      "count": 57
     },
     {
       "id": "itch-popular",
-      "count": 56
+      "count": 57
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -254,6 +254,25 @@
       "fastClass": "pending",
       "fastScore": 0,
       "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Incremental Dwarf",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
@@ -1027,24 +1046,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 11,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "100 Million to",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 12,
       "strategicCount": 2,
       "sourceCount": 4,
       "sourceIds": [
