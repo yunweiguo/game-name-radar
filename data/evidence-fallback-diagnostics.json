@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T07:00:55.435Z",
+  "generatedAt": "2026-09-20T12:19:32.112Z",
   "totalCandidates": 3000,
   "pendingSeo": 2177,
   "channelCounts": {
@@ -13,41 +13,41 @@
     "wiki:pending": 2
   },
   "strategicCounts": {
-    "pending:0": 384,
+    "pending:0": 385,
     "online:3": 1,
-    "online:1": 1709,
-    "online:2": 78,
-    "pending:1": 3,
+    "online:1": 1708,
+    "online:2": 79,
+    "pending:1": 2,
     "wiki:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1760
+      "count": 1759
     },
     {
       "id": "itch-newest-web",
-      "count": 1749
+      "count": 1748
     },
     {
       "id": "itch-new-feed",
-      "count": 1745
+      "count": 1744
     },
     {
       "id": "trends-rising-7d",
-      "count": 315
+      "count": 316
     },
     {
       "id": "trends-rising-30d",
-      "count": 198
+      "count": 203
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 158
+      "count": 159
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 102
+      "count": 107
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -91,11 +91,11 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 6
+      "count": 5
     },
     {
       "id": "itch-featured",
-      "count": 6
+      "count": 5
     },
     {
       "id": "steam-popular-new",
@@ -103,6 +103,10 @@
     },
     {
       "id": "y8-new",
+      "count": 4
+    },
+    {
+      "id": "lagged-new",
       "count": 3
     },
     {
@@ -111,10 +115,6 @@
     },
     {
       "id": "steam-new",
-      "count": 2
-    },
-    {
-      "id": "lagged-new",
       "count": 2
     }
   ],
@@ -138,6 +138,22 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Real Car Bmw M4 Drift",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 4,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "lagged-new"
       ]
     },
     {
@@ -1033,24 +1049,6 @@
         "itch-new",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "R.I.P. - Reincarnation Insurance Program",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 18,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 1,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "steam-popular-new"
       ]
     }
   ]
