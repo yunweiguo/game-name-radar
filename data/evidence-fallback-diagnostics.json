@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-09-20T12:19:32.112Z",
+  "generatedAt": "2026-09-20T16:29:28.687Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2177,
+  "pendingSeo": 2176,
   "channelCounts": {
     "pending": 387,
-    "online": 1788,
+    "online": 1787,
     "wiki": 2
   },
   "fastClassCounts": {
     "pending:pending": 387,
-    "online:pending": 1788,
+    "online:pending": 1787,
     "wiki:pending": 2
   },
   "strategicCounts": {
     "pending:0": 385,
     "online:3": 1,
-    "online:1": 1708,
+    "online:1": 1707,
     "online:2": 79,
     "pending:1": 2,
     "wiki:1": 2
@@ -59,11 +59,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 55
+      "count": 56
     },
     {
       "id": "itch-popular",
-      "count": 55
+      "count": 56
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -103,10 +103,6 @@
     },
     {
       "id": "y8-new",
-      "count": 4
-    },
-    {
-      "id": "lagged-new",
       "count": 3
     },
     {
@@ -115,6 +111,10 @@
     },
     {
       "id": "steam-new",
+      "count": 2
+    },
+    {
+      "id": "lagged-new",
       "count": 2
     }
   ],
@@ -138,22 +138,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Real Car Bmw M4 Drift",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 4,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "lagged-new"
       ]
     },
     {
@@ -186,6 +170,25 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Seed the Planet - DEMO",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
