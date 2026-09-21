@@ -1,42 +1,45 @@
 {
-  "generatedAt": "2026-09-21T07:10:22.296Z",
+  "generatedAt": "2026-09-21T14:05:49.506Z",
   "totalCandidates": 3000,
   "pendingSeo": 2176,
   "channelCounts": {
-    "pending": 389,
-    "online": 1787
+    "pending": 390,
+    "online": 1785,
+    "wiki": 1
   },
   "fastClassCounts": {
-    "pending:pending": 389,
-    "online:pending": 1787
+    "pending:pending": 390,
+    "online:pending": 1785,
+    "wiki:pending": 1
   },
   "strategicCounts": {
-    "pending:0": 387,
+    "pending:0": 388,
     "online:3": 1,
-    "online:1": 1706,
-    "online:2": 80,
+    "online:1": 1702,
+    "online:2": 82,
+    "wiki:2": 1,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1759
+      "count": 1755
     },
     {
       "id": "itch-newest-web",
-      "count": 1748
-    },
-    {
-      "id": "itch-new-feed",
       "count": 1744
     },
     {
+      "id": "itch-new-feed",
+      "count": 1740
+    },
+    {
       "id": "trends-rising-7d",
-      "count": 319
+      "count": 320
     },
     {
       "id": "trends-rising-30d",
-      "count": 203
+      "count": 204
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -48,7 +51,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 97
+      "count": 98
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -56,15 +59,15 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 57
+      "count": 58
     },
     {
       "id": "itch-popular",
-      "count": 57
+      "count": 58
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 53
+      "count": 54
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -88,31 +91,31 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 5
+      "count": 6
     },
     {
       "id": "itch-featured",
-      "count": 5
+      "count": 6
     },
     {
       "id": "y8-new",
-      "count": 3
+      "count": 4
     },
     {
       "id": "steam-popular-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "steam-latest-indie",
-      "count": 2
+      "count": 3
     },
     {
       "id": "steam-new",
-      "count": 2
+      "count": 3
     },
     {
       "id": "lagged-new",
-      "count": 2
+      "count": 3
     }
   ],
   "samples": [
@@ -135,6 +138,22 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Pinpoint Globe",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 2,
+      "sourceIds": [
+        "y8-new",
+        "lagged-new"
       ]
     },
     {
@@ -227,22 +246,21 @@
       ]
     },
     {
-      "name": "Let Me Die",
+      "name": "Eat not, Want not",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 17,
+      "discoveryScore": 15,
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
       "strategicCount": 2,
-      "sourceCount": 5,
+      "sourceCount": 4,
       "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
         "itch-new-popular-web",
-        "itch-popular"
+        "itch-popular",
+        "itch-featured-feed",
+        "itch-featured"
       ]
     },
     {
@@ -304,6 +322,25 @@
     },
     {
       "name": "HealTD incremental",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Let Me Die",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1007,42 +1044,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Espingle Adventure 01",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 12,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "7 Minutes in the Closet",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 11,
       "strategicCount": 2,
       "sourceCount": 4,
       "sourceIds": [
