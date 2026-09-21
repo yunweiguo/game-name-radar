@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-09-21T14:05:49.506Z",
+  "generatedAt": "2026-09-21T19:25:54.752Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2176,
+  "pendingSeo": 2174,
   "channelCounts": {
-    "pending": 390,
-    "online": 1785,
-    "wiki": 1
+    "pending": 391,
+    "online": 1781,
+    "wiki": 2
   },
   "fastClassCounts": {
-    "pending:pending": 390,
-    "online:pending": 1785,
-    "wiki:pending": 1
+    "pending:pending": 391,
+    "online:pending": 1781,
+    "wiki:pending": 2
   },
   "strategicCounts": {
-    "pending:0": 388,
+    "pending:0": 389,
     "online:3": 1,
-    "online:1": 1702,
+    "online:1": 1698,
     "online:2": 82,
-    "wiki:2": 1,
+    "wiki:2": 2,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1755
+      "count": 1752
     },
     {
       "id": "itch-newest-web",
-      "count": 1744
+      "count": 1741
     },
     {
       "id": "itch-new-feed",
-      "count": 1740
+      "count": 1736
     },
     {
       "id": "trends-rising-7d",
-      "count": 320
+      "count": 321
     },
     {
       "id": "trends-rising-30d",
-      "count": 204
+      "count": 205
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 161
+      "count": 162
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -59,15 +59,15 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 58
+      "count": 59
     },
     {
       "id": "itch-popular",
-      "count": 58
+      "count": 59
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 54
+      "count": 55
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -98,24 +98,24 @@
       "count": 6
     },
     {
-      "id": "y8-new",
+      "id": "steam-popular-new",
       "count": 4
     },
     {
-      "id": "steam-popular-new",
-      "count": 3
-    },
-    {
       "id": "steam-latest-indie",
-      "count": 3
+      "count": 4
     },
     {
       "id": "steam-new",
+      "count": 4
+    },
+    {
+      "id": "y8-new",
       "count": 3
     },
     {
       "id": "lagged-new",
-      "count": 3
+      "count": 2
     }
   ],
   "samples": [
@@ -138,22 +138,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Pinpoint Globe",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "lagged-new"
       ]
     },
     {
@@ -227,25 +211,6 @@
       ]
     },
     {
-      "name": "Favored",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Eat not, Want not",
       "channel": "online",
       "fastClass": "pending",
@@ -303,6 +268,25 @@
     },
     {
       "name": "A Crossed Path (PROLOGUE)",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Favored",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -941,6 +925,24 @@
         "itch-newest-web",
         "itch-new",
         "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Crown In The Clouds",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
         "itch-new-popular-web",
         "itch-popular"
       ]
