@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-21T01:40:51.940Z",
+  "generatedAt": "2026-09-21T07:10:22.296Z",
   "totalCandidates": 3000,
   "pendingSeo": 2176,
   "channelCounts": {
-    "pending": 387,
-    "online": 1789
+    "pending": 389,
+    "online": 1787
   },
   "fastClassCounts": {
-    "pending:pending": 387,
-    "online:pending": 1789
+    "pending:pending": 389,
+    "online:pending": 1787
   },
   "strategicCounts": {
-    "pending:0": 385,
+    "pending:0": 387,
     "online:3": 1,
-    "online:1": 1708,
+    "online:1": 1706,
     "online:2": 80,
     "pending:1": 2
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1761
+      "count": 1759
     },
     {
       "id": "itch-newest-web",
-      "count": 1750
+      "count": 1748
     },
     {
       "id": "itch-new-feed",
-      "count": 1746
+      "count": 1744
     },
     {
       "id": "trends-rising-7d",
-      "count": 317
+      "count": 319
     },
     {
       "id": "trends-rising-30d",
@@ -40,7 +40,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 160
+      "count": 161
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -48,11 +48,11 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 96
+      "count": 97
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 69
+      "count": 70
     },
     {
       "id": "itch-new-popular-web",
@@ -227,25 +227,6 @@
       ]
     },
     {
-      "name": "Tiny Foundry",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Let Me Die",
       "channel": "online",
       "fastClass": "pending",
@@ -323,6 +304,25 @@
     },
     {
       "name": "HealTD incremental",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Tiny Foundry",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
