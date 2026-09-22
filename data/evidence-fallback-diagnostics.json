@@ -1,37 +1,38 @@
 {
-  "generatedAt": "2026-09-22T12:04:55.746Z",
+  "generatedAt": "2026-09-22T16:55:17.913Z",
   "totalCandidates": 3000,
   "pendingSeo": 2171,
   "channelCounts": {
     "pending": 396,
-    "online": 1772,
-    "wiki": 3
+    "online": 1769,
+    "wiki": 6
   },
   "fastClassCounts": {
     "pending:pending": 396,
-    "online:pending": 1772,
-    "wiki:pending": 3
+    "online:pending": 1769,
+    "wiki:pending": 6
   },
   "strategicCounts": {
     "pending:0": 394,
     "online:3": 1,
-    "online:2": 85,
-    "online:1": 1686,
+    "online:2": 86,
+    "online:1": 1682,
+    "wiki:2": 1,
     "pending:1": 2,
-    "wiki:1": 3
+    "wiki:1": 5
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1743
+      "count": 1740
     },
     {
       "id": "itch-newest-web",
-      "count": 1732
+      "count": 1729
     },
     {
       "id": "itch-new-feed",
-      "count": 1727
+      "count": 1724
     },
     {
       "id": "trends-rising-7d",
@@ -90,6 +91,10 @@
       "count": 27
     },
     {
+      "id": "steam-popular-new",
+      "count": 8
+    },
+    {
       "id": "itch-featured-feed",
       "count": 6
     },
@@ -98,24 +103,24 @@
       "count": 6
     },
     {
-      "id": "steam-popular-new",
-      "count": 5
+      "id": "steam-latest-indie",
+      "count": 3
+    },
+    {
+      "id": "steam-new",
+      "count": 3
     },
     {
       "id": "y8-new",
       "count": 3
     },
     {
-      "id": "steam-latest-indie",
-      "count": 2
-    },
-    {
-      "id": "steam-new",
-      "count": 2
-    },
-    {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "poki-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -138,6 +143,24 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Rogue Riders",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 14,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "poki-new"
       ]
     },
     {
@@ -1031,24 +1054,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Phighting Feelings Web",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 4,
       "sourceIds": [
