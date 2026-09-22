@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-09-22T01:35:59.848Z",
+  "generatedAt": "2026-09-22T06:47:36.195Z",
   "totalCandidates": 3000,
   "pendingSeo": 2171,
   "channelCounts": {
-    "pending": 392,
-    "online": 1777,
-    "wiki": 2
+    "pending": 395,
+    "online": 1773,
+    "wiki": 3
   },
   "fastClassCounts": {
-    "pending:pending": 392,
-    "online:pending": 1777,
-    "wiki:pending": 2
+    "pending:pending": 395,
+    "online:pending": 1773,
+    "wiki:pending": 3
   },
   "strategicCounts": {
-    "pending:0": 390,
+    "pending:0": 393,
     "online:3": 1,
-    "online:2": 82,
-    "online:1": 1694,
+    "online:2": 83,
+    "online:1": 1689,
     "pending:1": 2,
-    "wiki:1": 2
+    "wiki:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1748
+      "count": 1744
     },
     {
       "id": "itch-newest-web",
-      "count": 1737
+      "count": 1733
     },
     {
       "id": "itch-new-feed",
-      "count": 1732
+      "count": 1728
     },
     {
       "id": "trends-rising-7d",
-      "count": 322
+      "count": 325
     },
     {
       "id": "trends-rising-30d",
@@ -43,7 +43,7 @@
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 162
+      "count": 163
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -55,15 +55,15 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 71
+      "count": 73
     },
     {
       "id": "itch-new-popular-web",
-      "count": 59
+      "count": 60
     },
     {
       "id": "itch-popular",
-      "count": 59
+      "count": 60
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -99,7 +99,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 4
+      "count": 5
     },
     {
       "id": "y8-new",
@@ -170,6 +170,25 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Skribline",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1028,24 +1047,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 4,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "MrArcade",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 4,
       "sourceIds": [
