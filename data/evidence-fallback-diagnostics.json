@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-22T20:11:41.078Z",
+  "generatedAt": "2026-09-22T22:55:45.726Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2169,
+  "pendingSeo": 2168,
   "channelCounts": {
     "pending": 396,
-    "online": 1763,
+    "online": 1762,
     "wiki": 10
   },
   "fastClassCounts": {
     "pending:pending": 396,
-    "online:pending": 1763,
+    "online:pending": 1762,
     "wiki:pending": 10
   },
   "strategicCounts": {
     "pending:0": 394,
     "online:3": 1,
-    "online:1": 1676,
-    "online:2": 86,
+    "online:1": 1674,
+    "online:2": 87,
     "wiki:2": 1,
     "pending:1": 2,
     "wiki:1": 9
@@ -24,15 +24,15 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1734
+      "count": 1732
     },
     {
       "id": "itch-newest-web",
-      "count": 1723
+      "count": 1721
     },
     {
       "id": "itch-new-feed",
-      "count": 1718
+      "count": 1716
     },
     {
       "id": "trends-rising-7d",
@@ -60,11 +60,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 63
+      "count": 64
     },
     {
       "id": "itch-popular",
-      "count": 63
+      "count": 64
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -117,6 +117,10 @@
     {
       "id": "lagged-new",
       "count": 2
+    },
+    {
+      "id": "crazygames-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -139,6 +143,23 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Road to Glory",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 13,
+      "platforms": 2,
+      "browserPlayable": true,
+      "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 3,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "crazygames-new"
       ]
     },
     {
@@ -250,25 +271,6 @@
       ]
     },
     {
-      "name": "Seed the Planet - DEMO",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Sprunki Hypershifted Pepper's Take",
       "channel": "online",
       "fastClass": "pending",
@@ -314,6 +316,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Seed the Planet - DEMO",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1033,24 +1054,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "TINY WIZARDS",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 4,
       "sourceIds": [
