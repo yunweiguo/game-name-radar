@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-22T16:55:17.913Z",
+  "generatedAt": "2026-09-22T20:11:41.078Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2171,
+  "pendingSeo": 2169,
   "channelCounts": {
     "pending": 396,
-    "online": 1769,
-    "wiki": 6
+    "online": 1763,
+    "wiki": 10
   },
   "fastClassCounts": {
     "pending:pending": 396,
-    "online:pending": 1769,
-    "wiki:pending": 6
+    "online:pending": 1763,
+    "wiki:pending": 10
   },
   "strategicCounts": {
     "pending:0": 394,
     "online:3": 1,
+    "online:1": 1676,
     "online:2": 86,
-    "online:1": 1682,
     "wiki:2": 1,
     "pending:1": 2,
-    "wiki:1": 5
+    "wiki:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1740
+      "count": 1734
     },
     {
       "id": "itch-newest-web",
-      "count": 1729
+      "count": 1723
     },
     {
       "id": "itch-new-feed",
-      "count": 1724
+      "count": 1718
     },
     {
       "id": "trends-rising-7d",
@@ -60,11 +60,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 62
+      "count": 63
     },
     {
       "id": "itch-popular",
-      "count": 62
+      "count": 63
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -92,7 +92,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 8
+      "count": 13
     },
     {
       "id": "itch-featured-feed",
@@ -117,10 +117,6 @@
     {
       "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "poki-new",
-      "count": 1
     }
   ],
   "samples": [
@@ -143,24 +139,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Rogue Riders",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 14,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "poki-new"
       ]
     },
     {
@@ -223,6 +201,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 7,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "IDLE HQ",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 9,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
