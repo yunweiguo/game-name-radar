@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-09-22T06:47:36.195Z",
+  "generatedAt": "2026-09-22T12:04:55.746Z",
   "totalCandidates": 3000,
   "pendingSeo": 2171,
   "channelCounts": {
-    "pending": 395,
-    "online": 1773,
+    "pending": 396,
+    "online": 1772,
     "wiki": 3
   },
   "fastClassCounts": {
-    "pending:pending": 395,
-    "online:pending": 1773,
+    "pending:pending": 396,
+    "online:pending": 1772,
     "wiki:pending": 3
   },
   "strategicCounts": {
-    "pending:0": 393,
+    "pending:0": 394,
     "online:3": 1,
-    "online:2": 83,
-    "online:1": 1689,
+    "online:2": 85,
+    "online:1": 1686,
     "pending:1": 2,
     "wiki:1": 3
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1744
+      "count": 1743
     },
     {
       "id": "itch-newest-web",
-      "count": 1733
+      "count": 1732
     },
     {
       "id": "itch-new-feed",
-      "count": 1728
+      "count": 1727
     },
     {
       "id": "trends-rising-7d",
-      "count": 325
+      "count": 326
     },
     {
       "id": "trends-rising-30d",
-      "count": 205
+      "count": 206
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -47,11 +47,11 @@
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 107
+      "count": 108
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 98
+      "count": 99
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -59,11 +59,11 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 60
+      "count": 62
     },
     {
       "id": "itch-popular",
-      "count": 60
+      "count": 62
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -170,6 +170,44 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "Necropolis: Rise of the Undying",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 7,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Return of The Twin Peaks",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 7,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1011,42 +1049,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Maksim's Kitchen Catch｜小馬克開飯啦！",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Back To Basics (Early Access)",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 4,
       "strategicCount": 2,
       "sourceCount": 4,
       "sourceIds": [
