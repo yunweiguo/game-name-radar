@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-09-23T06:40:01.685Z",
+  "generatedAt": "2026-09-23T12:10:11.133Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2165,
+  "pendingSeo": 2164,
   "channelCounts": {
-    "pending": 396,
-    "online": 1760,
+    "pending": 397,
+    "online": 1758,
     "wiki": 9
   },
   "fastClassCounts": {
-    "pending:pending": 396,
-    "online:pending": 1760,
+    "pending:pending": 397,
+    "online:pending": 1758,
     "wiki:pending": 9
   },
   "strategicCounts": {
-    "pending:0": 394,
+    "pending:0": 395,
     "online:3": 1,
-    "online:1": 1669,
-    "online:2": 90,
+    "online:1": 1666,
+    "online:2": 91,
     "pending:1": 2,
     "wiki:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1731
+      "count": 1728
     },
     {
       "id": "itch-newest-web",
-      "count": 1720
+      "count": 1717
     },
     {
       "id": "itch-new-feed",
-      "count": 1715
+      "count": 1712
     },
     {
       "id": "trends-rising-7d",
-      "count": 326
+      "count": 327
     },
     {
       "id": "trends-rising-30d",
-      "count": 208
+      "count": 209
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -51,7 +51,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 99
+      "count": 100
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -59,15 +59,15 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 66
+      "count": 67
     },
     {
       "id": "itch-popular",
-      "count": 66
+      "count": 67
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 57
+      "count": 58
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -102,8 +102,12 @@
       "count": 6
     },
     {
+      "id": "lagged-new",
+      "count": 3
+    },
+    {
       "id": "y8-new",
-      "count": 4
+      "count": 3
     },
     {
       "id": "steam-latest-indie",
@@ -114,8 +118,8 @@
       "count": 2
     },
     {
-      "id": "lagged-new",
-      "count": 2
+      "id": "crazygames-new",
+      "count": 1
     }
   ],
   "samples": [
@@ -141,21 +145,19 @@
       ]
     },
     {
-      "name": "High Noon",
+      "name": "My Castle: Merge & Story",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 16,
+      "discoveryScore": 12,
       "platforms": 2,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 5,
       "strategicCount": 2,
-      "sourceCount": 4,
+      "sourceCount": 2,
       "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "y8-new"
+        "crazygames-new",
+        "lagged-new"
       ]
     },
     {
@@ -199,6 +201,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "CLERESTORY",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1032,25 +1053,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "APOGEE",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
