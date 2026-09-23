@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-22T22:55:45.726Z",
+  "generatedAt": "2026-09-23T01:29:36.219Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2168,
+  "pendingSeo": 2166,
   "channelCounts": {
     "pending": 396,
-    "online": 1762,
+    "online": 1760,
     "wiki": 10
   },
   "fastClassCounts": {
     "pending:pending": 396,
-    "online:pending": 1762,
+    "online:pending": 1760,
     "wiki:pending": 10
   },
   "strategicCounts": {
     "pending:0": 394,
     "online:3": 1,
-    "online:1": 1674,
-    "online:2": 87,
+    "online:1": 1673,
+    "online:2": 86,
     "wiki:2": 1,
     "pending:1": 2,
     "wiki:1": 9
@@ -24,15 +24,15 @@
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1732
+      "count": 1731
     },
     {
       "id": "itch-newest-web",
-      "count": 1721
+      "count": 1720
     },
     {
       "id": "itch-new-feed",
-      "count": 1716
+      "count": 1715
     },
     {
       "id": "trends-rising-7d",
@@ -40,7 +40,7 @@
     },
     {
       "id": "trends-rising-30d",
-      "count": 206
+      "count": 207
     },
     {
       "id": "trends-rising-7d-horror-game",
@@ -60,15 +60,15 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 64
+      "count": 63
     },
     {
       "id": "itch-popular",
-      "count": 64
+      "count": 63
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 55
+      "count": 56
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -117,10 +117,6 @@
     {
       "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "crazygames-new",
-      "count": 1
     }
   ],
   "samples": [
@@ -143,23 +139,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Road to Glory",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 13,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 3,
-      "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "crazygames-new"
       ]
     },
     {
@@ -271,25 +250,6 @@
       ]
     },
     {
-      "name": "Sprunki Hypershifted Pepper's Take",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Eat not, Want not",
       "channel": "online",
       "fastClass": "pending",
@@ -335,6 +295,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Sprunki Hypershifted Pepper's Take",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -1054,6 +1033,24 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 6,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "TINY WIZARDS",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 12,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 4,
       "sourceIds": [
