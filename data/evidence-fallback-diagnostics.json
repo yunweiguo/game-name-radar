@@ -1,49 +1,50 @@
 {
-  "generatedAt": "2026-09-23T12:10:11.133Z",
+  "generatedAt": "2026-09-23T16:54:44.251Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2164,
+  "pendingSeo": 2163,
   "channelCounts": {
-    "pending": 397,
-    "online": 1758,
-    "wiki": 9
+    "pending": 402,
+    "online": 1749,
+    "wiki": 12
   },
   "fastClassCounts": {
-    "pending:pending": 397,
-    "online:pending": 1758,
-    "wiki:pending": 9
+    "pending:pending": 402,
+    "online:pending": 1749,
+    "wiki:pending": 12
   },
   "strategicCounts": {
-    "pending:0": 395,
+    "pending:0": 400,
     "online:3": 1,
-    "online:1": 1666,
-    "online:2": 91,
+    "online:1": 1656,
+    "online:2": 92,
+    "wiki:2": 1,
     "pending:1": 2,
-    "wiki:1": 9
+    "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1728
+      "count": 1722
     },
     {
       "id": "itch-newest-web",
-      "count": 1717
+      "count": 1709
     },
     {
       "id": "itch-new-feed",
-      "count": 1712
+      "count": 1705
     },
     {
       "id": "trends-rising-7d",
-      "count": 327
+      "count": 331
     },
     {
       "id": "trends-rising-30d",
-      "count": 209
+      "count": 210
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 163
+      "count": 166
     },
     {
       "id": "trends-rising-30d-horror-game",
@@ -51,7 +52,7 @@
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 100
+      "count": 101
     },
     {
       "id": "trends-rising-7d-itch-io",
@@ -59,15 +60,15 @@
     },
     {
       "id": "itch-new-popular-web",
-      "count": 67
+      "count": 69
     },
     {
       "id": "itch-popular",
-      "count": 67
+      "count": 69
     },
     {
       "id": "trends-rising-30d-indie-game",
-      "count": 58
+      "count": 59
     },
     {
       "id": "trends-rising-30d-itch-io",
@@ -91,7 +92,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 12
+      "count": 14
     },
     {
       "id": "itch-featured-feed",
@@ -102,24 +103,20 @@
       "count": 6
     },
     {
-      "id": "lagged-new",
-      "count": 3
+      "id": "steam-latest-indie",
+      "count": 4
+    },
+    {
+      "id": "steam-new",
+      "count": 4
     },
     {
       "id": "y8-new",
       "count": 3
     },
     {
-      "id": "steam-latest-indie",
+      "id": "lagged-new",
       "count": 2
-    },
-    {
-      "id": "steam-new",
-      "count": 2
-    },
-    {
-      "id": "crazygames-new",
-      "count": 1
     }
   ],
   "samples": [
@@ -142,22 +139,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "My Castle: Merge & Story",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "crazygames-new",
-        "lagged-new"
       ]
     },
     {
@@ -193,6 +174,25 @@
       ]
     },
     {
+      "name": "TrickcalTycoon",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
       "name": "Squeeze Maker",
       "channel": "online",
       "fastClass": "pending",
@@ -220,6 +220,25 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Rune Tale Demo - Extended Edition",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
@@ -288,25 +307,6 @@
       ]
     },
     {
-      "name": "Skribline",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 17,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
       "name": "Where are my bones?!",
       "channel": "online",
       "fastClass": "pending",
@@ -360,6 +360,25 @@
         "itch-popular",
         "itch-featured-feed",
         "itch-featured"
+      ]
+    },
+    {
+      "name": "Skribline",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
       ]
     },
     {
@@ -1034,25 +1053,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Coffee & Chill",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
