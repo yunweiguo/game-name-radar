@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-09-24T01:22:47.201Z",
+  "generatedAt": "2026-09-24T06:45:19.541Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2160,
+  "pendingSeo": 2158,
   "channelCounts": {
-    "pending": 408,
-    "online": 1740,
-    "wiki": 12
+    "pending": 407,
+    "wiki": 12,
+    "online": 1739
   },
   "fastClassCounts": {
-    "pending:pending": 408,
-    "online:pending": 1740,
-    "wiki:pending": 12
+    "pending:pending": 407,
+    "wiki:pending": 12,
+    "online:pending": 1739
   },
   "strategicCounts": {
-    "pending:0": 406,
+    "pending:0": 405,
+    "wiki:1": 11,
     "online:3": 1,
-    "online:1": 1645,
-    "online:2": 94,
-    "wiki:2": 2,
+    "online:1": 1643,
+    "online:2": 95,
     "pending:1": 2,
-    "wiki:1": 10
+    "wiki:2": 1
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1712
+      "count": 1710
     },
     {
       "id": "itch-newest-web",
-      "count": 1700
+      "count": 1698
     },
     {
       "id": "itch-new-feed",
-      "count": 1695
+      "count": 1693
     },
     {
       "id": "trends-rising-7d",
-      "count": 337
+      "count": 338
     },
     {
       "id": "trends-rising-30d",
@@ -56,15 +56,15 @@
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 74
+      "count": 75
     },
     {
       "id": "itch-new-popular-web",
-      "count": 71
+      "count": 72
     },
     {
       "id": "itch-popular",
-      "count": 71
+      "count": 72
     },
     {
       "id": "trends-rising-30d-indie-game",
@@ -96,19 +96,19 @@
     },
     {
       "id": "itch-featured-feed",
-      "count": 6
+      "count": 7
     },
     {
       "id": "itch-featured",
-      "count": 6
+      "count": 7
     },
     {
       "id": "steam-latest-indie",
-      "count": 4
+      "count": 3
     },
     {
       "id": "steam-new",
-      "count": 4
+      "count": 3
     },
     {
       "id": "y8-new",
@@ -171,6 +171,24 @@
       "sourceIds": [
         "y8-new",
         "lagged-new"
+      ]
+    },
+    {
+      "name": "THRORBS",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 17,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 5,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-featured-feed",
+        "itch-featured"
       ]
     },
     {
@@ -1044,24 +1062,6 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "Inkarn8: First Pages",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 0,
-      "strategicCount": 2,
-      "sourceCount": 4,
-      "sourceIds": [
-        "itch-new-popular-web",
-        "itch-popular",
-        "itch-featured-feed",
-        "itch-featured"
       ]
     }
   ]
