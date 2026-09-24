@@ -1,53 +1,54 @@
 {
-  "generatedAt": "2026-09-24T12:14:07.190Z",
+  "generatedAt": "2026-09-24T17:10:04.461Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2156,
+  "pendingSeo": 2153,
   "channelCounts": {
-    "pending": 408,
-    "online": 1738,
-    "wiki": 10
+    "pending": 409,
+    "online": 1730,
+    "wiki": 14
   },
   "fastClassCounts": {
-    "pending:pending": 408,
-    "online:pending": 1738,
-    "wiki:pending": 10
+    "pending:pending": 409,
+    "online:pending": 1730,
+    "wiki:pending": 14
   },
   "strategicCounts": {
-    "pending:0": 406,
+    "pending:0": 407,
     "online:3": 1,
-    "online:1": 1639,
-    "online:2": 98,
-    "wiki:1": 10,
-    "pending:1": 2
+    "online:1": 1633,
+    "online:2": 96,
+    "wiki:2": 3,
+    "pending:1": 2,
+    "wiki:1": 11
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1708
+      "count": 1701
     },
     {
       "id": "itch-newest-web",
-      "count": 1695
+      "count": 1689
     },
     {
       "id": "itch-new-feed",
-      "count": 1691
+      "count": 1684
     },
     {
       "id": "trends-rising-7d",
-      "count": 338
+      "count": 339
     },
     {
       "id": "trends-rising-30d",
-      "count": 211
+      "count": 212
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 169
+      "count": 170
     },
     {
       "id": "trends-rising-30d-horror-game",
-      "count": 109
+      "count": 110
     },
     {
       "id": "trends-rising-7d-indie-game",
@@ -91,7 +92,7 @@
     },
     {
       "id": "steam-popular-new",
-      "count": 13
+      "count": 17
     },
     {
       "id": "itch-featured-feed",
@@ -102,24 +103,20 @@
       "count": 7
     },
     {
-      "id": "y8-new",
-      "count": 5
-    },
-    {
-      "id": "lagged-new",
-      "count": 3
-    },
-    {
       "id": "steam-latest-indie",
-      "count": 2
+      "count": 6
     },
     {
       "id": "steam-new",
-      "count": 2
+      "count": 6
     },
     {
-      "id": "crazygames-new",
-      "count": 1
+      "id": "y8-new",
+      "count": 3
+    },
+    {
+      "id": "lagged-new",
+      "count": 2
     }
   ],
   "samples": [
@@ -142,54 +139,6 @@
         "itch-featured",
         "itch-new-popular-web",
         "itch-popular"
-      ]
-    },
-    {
-      "name": "+1 Speed Keyboard Lucky Escape",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 4,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "crazygames-new",
-        "y8-new"
-      ]
-    },
-    {
-      "name": "Dino World 3D",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 6,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "lagged-new"
-      ]
-    },
-    {
-      "name": "Car and Truck Parking",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 12,
-      "platforms": 2,
-      "browserPlayable": true,
-      "nameRisk": 26,
-      "strategicCount": 2,
-      "sourceCount": 2,
-      "sourceIds": [
-        "y8-new",
-        "lagged-new"
       ]
     },
     {
@@ -1062,6 +1011,62 @@
         "itch-new-feed",
         "itch-new-popular-web",
         "itch-popular"
+      ]
+    },
+    {
+      "name": "Amber Eyes",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Mine & Gamble",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 5,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular"
+      ]
+    },
+    {
+      "name": "Inkarn8: First Pages",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 15,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 4,
+      "sourceIds": [
+        "itch-new-popular-web",
+        "itch-popular",
+        "itch-featured-feed",
+        "itch-featured"
       ]
     }
   ]
